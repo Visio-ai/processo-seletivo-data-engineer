@@ -12,37 +12,38 @@
  - Documentação escrita é um fator importante, há muitas pessoas trabalhando em contextos diferentes todo o tempo, então dependemos fortemente de playbooks e docs para alinhar soluções.
 
 ## Carregando os dados raw
-Nessa etapa vamos realizar a extração dos dados, para não precisar utilizar uma API, decide por deixar os dados prontos em JSON.
+Nessa etapa vamos realizar a extração dos dados, para não precisar utilizar uma API, decide por deixar os dados prontos em JSON. Os dados basicamente são os cupons ficais de uma loja ficticia. 
 
-O dado bruto tem o seguinte formato:
+Os dados de cupons são a base das maiorias das análises que fazemos para vários clientes, em geral esses dados estão disponíveis em banco não relacionais. No case em questão, os dados estão no files por facilidade. Cada arquivo possui um lista com todos os cupons vendidos no dia, abaixo tem uma explicação de cada campo do cupom.
+
 ```json
 {
-    "coupon": "1AM5250082",
-    "date_time": "20/12/2023 06:45:00",
-    "price_total": "40.00",
-    "payments": [
+    "coupon": "1AM5250082", //ID do cupom, é único nesse caso em particular
+    "date_time": "20/12/2023 06:45:00", // Datetime do horário local de estração
+    "price_total": "40.00", // O preço total do cupom fiscal
+    "payments": [ // aqui é uma lista pq pode haver múltiplos meios de pagamento
     {
-        "type": "Dinheiro",
-        "amount": "40.00"
+        "type": "Dinheiro", //Tipo do pagmento
+        "amount": "40.00" // valor pago
     }
     ],
-    "timestamp_erp": 1703054700,
-    "details": {
+    "timestamp_erp": 1703054700, //timestamp do cupom
+    "details": { //esses detalhes podem ser ignorados para essa atividade, mas eles representa informações sobre o computador que emitiu a nota fiscal
         "movimento": "",
         "operator": "00256",
         "abertura": "",
         "pdv": "14"
     },
-    "fee": "4.29",
-    "delivery": false,
-    "staff": false,
-    "items": [
+    "fee": "4.29", //Taxas pagas no geral
+    "delivery": false, //Se o cupom é delivery
+    "staff": false, // Se o cupom é dos funcionários
+    "items": [ // lista do itens presentes na loja
         {
-            "item": "Sanduíche Bauru",
-            "canceled": "false",
-            "total": "20.00",
-            "price": "20.00",
-            "quantity": 1
+            "item": "Sanduíche Bauru", // nome do item
+            "canceled": "false", //Se foi cancelado
+            "total": "20.00", // Valor total dos itens desse tipo
+            "price": "20.00", // Preço individual do item
+            "quantity": 1 // Quantidade comprada
         }
     ]
 }
