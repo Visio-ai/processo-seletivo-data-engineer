@@ -1,20 +1,25 @@
 
 # Case de Engenharia de Dados
 
+Este repositório contém um case voltado para operações de dados. O objetivo principal não é demonstrar o uso de ferramentas específicas, mas sim enfatizar a tomada de decisões estratégicas e a disseminação de boas práticas aplicáveis a uma audiência ampla.
+
+A parte técnica utiliza tecnologias amplamente conhecidas e acessíveis, com grande suporte em fóruns e ferramentas como IA. Na Visio, acreditamos que a capacidade de pesquisa e aprendizado contínuo é muito mais valiosa do que o domínio exclusivo de uma ferramenta. Valorizamos profissionais curiosos, que se interessam por explorar novas tecnologias e encontrar soluções inovadoras.
+
+Este case é inspirado em um cenário realista, que reflete desafios iniciais típicos enfrentados por engenheiros de dados. Algumas complexidades foram simplificadas para alinhar o case às demandas e restrições de tempo comuns no final do ano, permitindo um foco mais prático e direto.
 
 
 ## Considerações importantes
- - O Postgres vai fazer a função do nosso banco OLAP para esse exercício;
- - No cenários real, pagamos tanto por armazenamento quanto por dando recuperado na query;
- - Mas o custo de query é muito mais elevado que o de armazenamento, então é um requisito minimizar o custo de query;
- - Os times de negócio consultando várias vezes ao dia os dados via dashboard, então geralmente query são exexcutadas com frequência;
- - Técnicas como particionamento e clusterização podem ser utilizadas para isso, mas não é o caso nesse case, o maior foco é organizar tabelas que permitam consultas inteligentes;
- - Documentação escrita é um fator importante, há muitas pessoas trabalhando em contextos diferentes todo o tempo, então dependemos fortemente de playbooks e docs para alinhar soluções.
+- O Postgres será utilizado como banco OLAP para este exercício.
+- Em cenários reais, paga-se tanto pelo armazenamento quanto pela recuperação de dados em queries.
+- O custo das queries geralmente é significativamente mais alto que o de armazenamento, tornando essencial a otimização das consultas para minimizar custos.
+- Os times de negócio consultam os dados via dashboards várias vezes ao dia, resultando em uma alta frequência de execução de queries.
+- Apesar de técnicas como particionamento e clusterização serem úteis, o foco deste case está na organização de tabelas para consultas eficientes e inteligentes.
+- Documentação clara é fundamental: múltiplas equipes trabalham em diferentes contextos simultaneamente, tornando playbooks e documentação escrita essenciais para alinhar soluções.
 
 ## Carregando os dados raw
-Nessa etapa vamos realizar a extração dos dados, para não precisar utilizar uma API, decide por deixar os dados prontos em JSON. Os dados basicamente são os cupons ficais de uma loja ficticia. 
+Nesta etapa, faremos a extração dos dados. Para simplificar, os dados foram disponibilizados em formato JSON, eliminando a necessidade de interação com APIs. Eles representam cupons fiscais de uma loja fictícia.
 
-Os dados de cupons são a base das maiorias das análises que fazemos para vários clientes, em geral esses dados estão disponíveis em banco não relacionais. No case em questão, os dados estão no files por facilidade. Cada arquivo possui um lista com todos os cupons vendidos no dia, abaixo tem uma explicação de cada campo do cupom.
+Os dados de cupons fiscais são a base da maioria das análises realizadas para diversos clientes. Geralmente, esses dados estão em bancos não relacionais, mas, neste case, estão em arquivos para facilitar a manipulação. Cada arquivo contém uma lista de cupons vendidos em um dia. Abaixo, segue a descrição dos campos:
 
 ```json
 {
@@ -48,22 +53,22 @@ Os dados de cupons são a base das maiorias das análises que fazemos para vári
     ]
 }
 ```
-A primeira etapa é subir o dado raw para o Postgres.
-Utilize o método que quiser para resolver essa parte, pode ser um script em Python, pode ser uma aplicação. Aqui é a sua escolha como responsável pelo projeto.
-
-Alguns requisitos:
- - Cupons que começam com 4 são atendimento de delivery
- - Cupons que começam com 3 são auto atendimento;
- - Cupons que começam com 1 são no restaurante
+### Requisitos para Carregamento
+- Os dados brutos devem ser carregados no Postgres.
+- Escolha a ferramenta ou método que preferir (ex.: scripts em Python ou aplicações).
+- Regras:
+    - Cupons iniciados com 4 indicam delivery.
+    - Cupons iniciados com 3 indicam autoatendimento.
+    - Cupons iniciados com 1 indicam consumo no restaurante.
 
 ```
-Deixei configurado na forma de docker-compose o Spark e o banco de dados Postgres, dessa forma podemos garantir a replicabilidade da aplicação.
+⚠️ O ambiente já está configurado com Docker Compose para subir o Spark e o banco de dados Postgres, garantindo a replicabilidade do projeto.
 ```
 
 ## Transformando os dados do banco
-Nessa etapa vamos usar o Spark para tranformar os dados, apesar de serem poucos e o Spark se tornar uma bazuca para o problema, o objetivo é simular uma situação onde haveriam diversos dados chegando.
+Nesta etapa, utilizaremos o Spark para transformar os dados. Embora o volume de dados seja pequeno, o objetivo é simular um cenário de grande escala, onde fluxos contínuos de dados precisam ser processados.
 
-Basicmamente, o ponto importante aqui é a utilização de uma ferramenta popular de pipeline da dados e a sua utilização.
+O foco aqui é demonstrar a utilização de uma ferramenta robusta e popular de pipelines de dados.
 
 
 ### Checando se o spark está funcionado
@@ -78,28 +83,31 @@ spark-submit  /opt/spark-apps/example.py
 ```
 
 ## Perguntas que o time de negócio geralmente quer responder
-Finalmente, estamos muito interessados em ajudar o time de negócios a tirar insights dos dados extraídos, as perguntas que eles geralmente querem responder são as seguinte:
 
- - Qual o faturamento dessa loja em diferentes espaço de tempo: dia, semana e mês?
- - Quais os itens mais vendidos e menos vendidos? Quais itens trazem mais faturamento?
- - Quais os métodos de pagamento mais utilizado?
- - Quais os horários de maior movimento?
- - Quanto é a venda por modalidade: delivery, restaurante e auto atendimento?
+Nosso objetivo é auxiliar o time de negócios a obter insights significativos. As perguntas mais comuns incluem:
 
-Precisamos deixar possível a capacidade de responder as perguntas facilmente ao mesmo tempo que minimizamos a quantidade de dados que é recuperado em cada query.
+- Qual é o faturamento da loja em diferentes períodos de tempo (diário, semanal e mensal)?
+- Quais são os itens mais vendidos e menos vendidos? Quais itens geram mais faturamento?
+- Quais são os métodos de pagamento mais utilizados?
+- Quais são os horários de maior movimento?
+- Qual é a divisão de vendas por modalidade (delivery, restaurante e autoatendimento)?
 
-Utilize a ferramenta de Data Viz que desejar, todas as possíveis devem ter compatibilidade com o Postgres. Adicione a ferramenta escolhida como um container de volta no docker-compose.yml de tal forma que eu possa executar na minha máquina localmente e visualizar os dashboards.
+💡 Nota: É importante garantir que essas perguntas possam ser respondidas com consultas eficientes e que minimizem a quantidade de dados processados.
 
-```
-Os tipo de gráficos não são importantes, só quero ver o funcionamento das queries com relação a seletores de datas.
-```
+
+
+### Visualizando os dados
+Use a ferramenta de visualização de sua preferência (ex.: Tableau, Metabase, Grafana). Adicione-a ao docker-compose.yml para que possa ser executada localmente e visualizar os dashboards.
+
+⚠️ Observação: O formato dos gráficos não é o foco; o importante é verificar o funcionamento das queries com seletores de datas.
 
  ## Submissão e o que será avaliado
-Se o repositório estiver privado, me adicione como contribuídor para que eu posso clonar. Seguirei a sua documentação para executar o projeto e olhar a visualização dos dados.
+- Caso o repositório esteja privado, adicione-me como colaborador para que eu possa clonar o projeto.
+- A avaliação seguirá a documentação fornecida para replicar o ambiente e verificar os resultados.
 
  ### Principais pontos de avaliação
- - A documentação que explica para outro desenvolvedor como executar o mesmo processo;
- - A forma como os dados foram transformados no pipeline;
- - Como as tabelas foram organizadas;
- - A documentação explicando o porquê da escolhas;
- - A documentação para o time de negócio de como eles podem utilizar as tabelas geradas.
+1. Qualidade da documentação, especialmente para desenvolvedores.
+2. Organização e transformação dos dados no pipeline.
+3. Estrutura e organização das tabelas geradas.
+4. Explicação clara das escolhas realizadas.
+5. Documentação voltada ao time de negócios para utilização das tabelas.
