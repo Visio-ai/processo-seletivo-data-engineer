@@ -1,0 +1,6999 @@
+{
+  "_id": "20231121",
+  "erp": [
+    {
+      "coupon": "1AM5245794",
+      "date_time": "21/11/2023 07:07:00",
+      "price_total": "75.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "75.00"
+        }
+      ],
+      "timestamp_erp": 1700550420,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "8.04",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "3 Nuggetss",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245795",
+      "date_time": "21/11/2023 07:18:00",
+      "price_total": "60.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "60.00"
+        }
+      ],
+      "timestamp_erp": 1700551080,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.43",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "76.00",
+          "price": "38.00",
+          "quantity": 2
+        },
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245796",
+      "date_time": "21/11/2023 07:20:00",
+      "price_total": "40.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "40.00"
+        }
+      ],
+      "timestamp_erp": 1700551200,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.29",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Café com Nuggets",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245797",
+      "date_time": "21/11/2023 07:21:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1700551260,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245798",
+      "date_time": "21/11/2023 07:28:00",
+      "price_total": "57.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "57.00"
+        }
+      ],
+      "timestamp_erp": 1700551680,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.11",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Drink da casa+ CHIP",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245799",
+      "date_time": "21/11/2023 07:29:00",
+      "price_total": "19.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "19.00"
+        }
+      ],
+      "timestamp_erp": 1700551740,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.04",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245800",
+      "date_time": "21/11/2023 07:32:00",
+      "price_total": "47.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "47.00"
+        }
+      ],
+      "timestamp_erp": 1700551920,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "5.04",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB CHAPIN",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Extra Avocado Pequeño",
+          "canceled": "false",
+          "total": "8.00",
+          "price": "8.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245801",
+      "date_time": "21/11/2023 07:40:00",
+      "price_total": "19.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "19.00"
+        }
+      ],
+      "timestamp_erp": 1700552400,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.04",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245802",
+      "date_time": "21/11/2023 07:48:00",
+      "price_total": "42.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "42.00"
+        }
+      ],
+      "timestamp_erp": 1700552880,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.50",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "MF Ovo/ Linguiça",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        },
+        {
+          "item": "Café com Sequilhos",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        },
+        {
+          "item": " Sonho",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245803",
+      "date_time": "21/11/2023 08:09:00",
+      "price_total": "36.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "36.00"
+        }
+      ],
+      "timestamp_erp": 1700554140,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.86",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Café com Nuggets",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Café com Nuggets",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245804",
+      "date_time": "21/11/2023 08:16:00",
+      "price_total": "44.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "44.00"
+        }
+      ],
+      "timestamp_erp": 1700554560,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.71",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Ovo/ Linguiça",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245805",
+      "date_time": "21/11/2023 08:18:00",
+      "price_total": "34.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "34.00"
+        }
+      ],
+      "timestamp_erp": 1700554680,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.64",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "CAFE",
+          "canceled": "false",
+          "total": "12.00",
+          "price": "12.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245806",
+      "date_time": "21/11/2023 08:23:00",
+      "price_total": "56.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "56.00"
+        }
+      ],
+      "timestamp_erp": 1700554980,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.00",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "76.00",
+          "price": "38.00",
+          "quantity": 2
+        },
+        {
+          "item": "Café com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245807",
+      "date_time": "21/11/2023 08:43:00",
+      "price_total": "19.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "19.00"
+        }
+      ],
+      "timestamp_erp": 1700556180,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.04",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245808",
+      "date_time": "21/11/2023 08:54:00",
+      "price_total": "38.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "38.00"
+        }
+      ],
+      "timestamp_erp": 1700556840,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245809",
+      "date_time": "21/11/2023 09:00:00",
+      "price_total": "87.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "87.00"
+        }
+      ],
+      "timestamp_erp": 1700557200,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "9.32",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Extra Avocado Pequeño",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Extra Queijo",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Oferta Extra",
+          "canceled": "false",
+          "total": "14.00",
+          "price": "14.00",
+          "quantity": 1
+        },
+        {
+          "item": "Extra Salame",
+          "canceled": "false",
+          "total": "14.00",
+          "price": "14.00",
+          "quantity": 1
+        },
+        {
+          "item": "Contra filé Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "NECTAR + Salgado",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        },
+        {
+          "item": "1 Nuggets",
+          "canceled": "false",
+          "total": "6.00",
+          "price": "6.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245810",
+      "date_time": "21/11/2023 09:00:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1700557200,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245811",
+      "date_time": "21/11/2023 09:17:00",
+      "price_total": "38.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "38.00"
+        }
+      ],
+      "timestamp_erp": 1700558220,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245812",
+      "date_time": "21/11/2023 09:30:00",
+      "price_total": "438.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "438.00"
+        }
+      ],
+      "timestamp_erp": 1700559000,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "46.93",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Bandeja Saludable",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 2
+        },
+        {
+          "item": "CHIP",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 2
+        },
+        {
+          "item": "CHIP",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 2
+        },
+        {
+          "item": "CHIP",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 2
+        },
+        {
+          "item": "CHIP",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 2
+        },
+        {
+          "item": "CHIP",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 2
+        },
+        {
+          "item": "CATERING + 5 CHIPS",
+          "canceled": "false",
+          "total": "876.00",
+          "price": "438.00",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245813",
+      "date_time": "21/11/2023 09:33:00",
+      "price_total": "120.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "120.00"
+        }
+      ],
+      "timestamp_erp": 1700559180,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "12.86",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Bandeja Nuggetss",
+          "canceled": "false",
+          "total": "360.00",
+          "price": "120.00",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245814",
+      "date_time": "21/11/2023 09:43:00",
+      "price_total": "94.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "94.00"
+        }
+      ],
+      "timestamp_erp": 1700559780,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "10.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Extra Avocado Pequeño",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Extra Bacon",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Oferta Extra",
+          "canceled": "false",
+          "total": "14.00",
+          "price": "14.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Café com Nuggets",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Café com Nuggets",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245815",
+      "date_time": "21/11/2023 09:48:00",
+      "price_total": "19.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "19.00"
+        }
+      ],
+      "timestamp_erp": 1700560080,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.04",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "WRAP WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245816",
+      "date_time": "21/11/2023 09:58:00",
+      "price_total": "47.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "47.00"
+        }
+      ],
+      "timestamp_erp": 1700560680,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "5.04",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB CHAPIN",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Café com Sequilhos",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        },
+        {
+          "item": "CAFE",
+          "canceled": "false",
+          "total": "12.00",
+          "price": "12.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245817",
+      "date_time": "21/11/2023 10:11:00",
+      "price_total": "34.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "34.00"
+        }
+      ],
+      "timestamp_erp": 1700561460,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.64",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "CAFE",
+          "canceled": "false",
+          "total": "12.00",
+          "price": "12.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245818",
+      "date_time": "21/11/2023 10:13:00",
+      "price_total": "18.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "18.00"
+        }
+      ],
+      "timestamp_erp": 1700561580,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "1.93",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Café com Nuggets",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245819",
+      "date_time": "21/11/2023 10:29:00",
+      "price_total": "30.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "30.00"
+        }
+      ],
+      "timestamp_erp": 1700562540,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.21",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Extra Avocado Pequeño",
+          "canceled": "false",
+          "total": "8.00",
+          "price": "8.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245820",
+      "date_time": "21/11/2023 10:33:00",
+      "price_total": "50.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "50.00"
+        }
+      ],
+      "timestamp_erp": 1700562780,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "5.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "CHIP",
+          "canceled": "false",
+          "total": "12.00",
+          "price": "12.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245821",
+      "date_time": "21/11/2023 10:45:00",
+      "price_total": "12.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "12.00"
+        }
+      ],
+      "timestamp_erp": 1700563500,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "1.29",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "CAFE",
+          "canceled": "false",
+          "total": "12.00",
+          "price": "12.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245822",
+      "date_time": "21/11/2023 11:01:00",
+      "price_total": "55.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "55.00"
+        }
+      ],
+      "timestamp_erp": 1700564460,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "5.89",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche de frios Pequeño",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245823",
+      "date_time": "21/11/2023 11:22:00",
+      "price_total": "40.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "40.00"
+        }
+      ],
+      "timestamp_erp": 1700565720,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.29",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245824",
+      "date_time": "21/11/2023 11:32:00",
+      "price_total": "114.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "114.00"
+        }
+      ],
+      "timestamp_erp": 1700566320,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "12.21",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Steak Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango Salsa Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Drink da casa+ CHIP",
+          "canceled": "false",
+          "total": "76.00",
+          "price": "38.00",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245825",
+      "date_time": "21/11/2023 11:34:00",
+      "price_total": "46.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "46.00"
+        }
+      ],
+      "timestamp_erp": 1700566440,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.93",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo C/Nuggets",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        },
+        {
+          "item": "CHIP",
+          "canceled": "false",
+          "total": "12.00",
+          "price": "12.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245826",
+      "date_time": "21/11/2023 11:44:00",
+      "price_total": "58.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "58.00"
+        }
+      ],
+      "timestamp_erp": 1700567040,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.21",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "STEAK ITALIANO MED",
+          "canceled": "false",
+          "total": "40.00",
+          "price": "40.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com Nuggets",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245827",
+      "date_time": "21/11/2023 11:46:00",
+      "price_total": "76.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "76.00"
+        }
+      ],
+      "timestamp_erp": 1700567160,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "8.14",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Contra filé Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Contra filé Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245828",
+      "date_time": "21/11/2023 11:46:00",
+      "price_total": "76.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "76.00"
+        }
+      ],
+      "timestamp_erp": 1700567160,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "8.14",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Lombinho Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lombinho Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245829",
+      "date_time": "21/11/2023 11:59:00",
+      "price_total": "71.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "71.00"
+        }
+      ],
+      "timestamp_erp": 1700567940,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "7.61",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Extra Crouton Peq",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Extra Crouton Peq",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Oferta Extra",
+          "canceled": "false",
+          "total": "14.00",
+          "price": "14.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "171.00",
+          "price": "57.00",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245830",
+      "date_time": "21/11/2023 12:09:00",
+      "price_total": "38.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "38.00"
+        }
+      ],
+      "timestamp_erp": 1700568540,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Empanados",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245831",
+      "date_time": "21/11/2023 12:10:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1700568600,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245832",
+      "date_time": "21/11/2023 12:16:00",
+      "price_total": "93.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "93.00"
+        }
+      ],
+      "timestamp_erp": 1700568960,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "9.96",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245833",
+      "date_time": "21/11/2023 12:21:00",
+      "price_total": "72.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "72.00"
+        }
+      ],
+      "timestamp_erp": 1700569260,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "7.71",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Bowls Frango Empanados",
+          "canceled": "false",
+          "total": "40.00",
+          "price": "40.00",
+          "quantity": 1
+        },
+        {
+          "item": "Extra Frango",
+          "canceled": "false",
+          "total": "14.00",
+          "price": "14.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com Nuggets",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245834",
+      "date_time": "21/11/2023 12:25:00",
+      "price_total": "81.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "81.00"
+        }
+      ],
+      "timestamp_erp": 1700569500,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "8.68",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ Nuggets",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245835",
+      "date_time": "21/11/2023 12:28:00",
+      "price_total": "58.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "58.00"
+        }
+      ],
+      "timestamp_erp": 1700569680,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.21",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Bowls Frango",
+          "canceled": "false",
+          "total": "40.00",
+          "price": "40.00",
+          "quantity": 1
+        },
+        {
+          "item": "ÁGUA com Nuggets",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245836",
+      "date_time": "21/11/2023 12:33:00",
+      "price_total": "247.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "247.00"
+        }
+      ],
+      "timestamp_erp": 1700569980,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "26.46",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Contra filé Grande",
+          "canceled": "false",
+          "total": "64.00",
+          "price": "64.00",
+          "quantity": 1
+        },
+        {
+          "item": "Contra filé Grande",
+          "canceled": "false",
+          "total": "64.00",
+          "price": "64.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche de frios Grande (BMT)",
+          "canceled": "false",
+          "total": "63.00",
+          "price": "63.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Cerveja Nacional+ CHIP",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Cerveja Nacional+ CHIP",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245837",
+      "date_time": "21/11/2023 12:35:00",
+      "price_total": "19.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "19.00"
+        }
+      ],
+      "timestamp_erp": 1700570100,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.04",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245838",
+      "date_time": "21/11/2023 12:35:00",
+      "price_total": "38.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "38.00"
+        }
+      ],
+      "timestamp_erp": 1700570100,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Lombinho Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245839",
+      "date_time": "21/11/2023 12:38:00",
+      "price_total": "52.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "52.00"
+        }
+      ],
+      "timestamp_erp": 1700570280,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "5.57",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Empanados",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "3 Nuggetss",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245840",
+      "date_time": "21/11/2023 12:39:00",
+      "price_total": "38.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "38.00"
+        }
+      ],
+      "timestamp_erp": 1700570340,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245841",
+      "date_time": "21/11/2023 12:40:00",
+      "price_total": "32.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "32.00"
+        }
+      ],
+      "timestamp_erp": 1700570400,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.43",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Agua Pura",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245842",
+      "date_time": "21/11/2023 12:43:00",
+      "price_total": "19.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "19.00"
+        }
+      ],
+      "timestamp_erp": 1700570580,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.04",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "WRAP WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245843",
+      "date_time": "21/11/2023 12:45:00",
+      "price_total": "40.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "40.00"
+        }
+      ],
+      "timestamp_erp": 1700570700,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.29",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "ÁGUA com Nuggets",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245844",
+      "date_time": "21/11/2023 12:46:00",
+      "price_total": "19.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "19.00"
+        }
+      ],
+      "timestamp_erp": 1700570760,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.04",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245845",
+      "date_time": "21/11/2023 12:47:00",
+      "price_total": "86.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "86.00"
+        }
+      ],
+      "timestamp_erp": 1700570820,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "9.21",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Extra Frango",
+          "canceled": "false",
+          "total": "14.00",
+          "price": "14.00",
+          "quantity": 1
+        },
+        {
+          "item": "Extra Frango",
+          "canceled": "false",
+          "total": "14.00",
+          "price": "14.00",
+          "quantity": 1
+        },
+        {
+          "item": "LATA",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        },
+        {
+          "item": "LATA",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245846",
+      "date_time": "21/11/2023 12:53:00",
+      "price_total": "167.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "167.00"
+        }
+      ],
+      "timestamp_erp": 1700571180,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "17.89",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche de frios Pequeño",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche de frios Pequeño",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango Salsa Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ Nuggets",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Cerveja Nacional+ CHIP",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245847",
+      "date_time": "21/11/2023 12:54:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1700571240,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245848",
+      "date_time": "21/11/2023 12:56:00",
+      "price_total": "41.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "41.00"
+        }
+      ],
+      "timestamp_erp": 1700571360,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.39",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Cerveja Nacional+ CHIP",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245849",
+      "date_time": "21/11/2023 12:59:00",
+      "price_total": "38.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "38.00"
+        }
+      ],
+      "timestamp_erp": 1700571540,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Drink da casa+Brownie GF",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245850",
+      "date_time": "21/11/2023 13:00:00",
+      "price_total": "37.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "37.00"
+        }
+      ],
+      "timestamp_erp": 1700571600,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.96",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ Nuggets",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245851",
+      "date_time": "21/11/2023 13:01:00",
+      "price_total": "113.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "113.00"
+        }
+      ],
+      "timestamp_erp": 1700571660,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "12.11",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "171.00",
+          "price": "57.00",
+          "quantity": 3
+        },
+        {
+          "item": "Contra filé Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245852",
+      "date_time": "21/11/2023 13:03:00",
+      "price_total": "36.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "36.00"
+        }
+      ],
+      "timestamp_erp": 1700571780,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.86",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo 16 OZ",
+          "canceled": "false",
+          "total": "14.00",
+          "price": "14.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245853",
+      "date_time": "21/11/2023 13:04:00",
+      "price_total": "10.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "10.00"
+        }
+      ],
+      "timestamp_erp": 1700571840,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "1.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "NECTAR",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245854",
+      "date_time": "21/11/2023 13:05:00",
+      "price_total": "36.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "36.00"
+        }
+      ],
+      "timestamp_erp": 1700571900,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.86",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Extra Avocado Pequeño",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Extra Bacon",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Oferta Extra",
+          "canceled": "false",
+          "total": "14.00",
+          "price": "14.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245855",
+      "date_time": "21/11/2023 13:07:00",
+      "price_total": "120.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "120.00"
+        }
+      ],
+      "timestamp_erp": 1700572020,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "12.86",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245856",
+      "date_time": "21/11/2023 13:08:00",
+      "price_total": "10.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "10.00"
+        }
+      ],
+      "timestamp_erp": 1700572080,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "1.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Agua Pura",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245857",
+      "date_time": "21/11/2023 13:09:00",
+      "price_total": "19.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "19.00"
+        }
+      ],
+      "timestamp_erp": 1700572140,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.04",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245858",
+      "date_time": "21/11/2023 13:10:00",
+      "price_total": "58.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "58.00"
+        }
+      ],
+      "timestamp_erp": 1700572200,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.21",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "32.00",
+          "price": "32.00",
+          "quantity": 1
+        },
+        {
+          "item": "Extra Avocado Pequeño",
+          "canceled": "false",
+          "total": "8.00",
+          "price": "8.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com Nuggets",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245859",
+      "date_time": "21/11/2023 13:10:00",
+      "price_total": "19.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "19.00"
+        }
+      ],
+      "timestamp_erp": 1700572200,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.04",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245860",
+      "date_time": "21/11/2023 13:13:00",
+      "price_total": "237.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "237.00"
+        }
+      ],
+      "timestamp_erp": 1700572380,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "25.39",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Agua Pura",
+          "canceled": "false",
+          "total": "250.00",
+          "price": "50.00",
+          "quantity": 5
+        },
+        {
+          "item": "3 Nuggetss",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        },
+        {
+          "item": "NECTAR",
+          "canceled": "false",
+          "total": "40.00",
+          "price": "20.00",
+          "quantity": 2
+        },
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Cerveja Nacional+ CHIP",
+          "canceled": "false",
+          "total": "76.00",
+          "price": "38.00",
+          "quantity": 2
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "32.00",
+          "price": "32.00",
+          "quantity": 1
+        },
+        {
+          "item": "Cerveja Nacional",
+          "canceled": "false",
+          "total": "14.00",
+          "price": "14.00",
+          "quantity": 1
+        },
+        {
+          "item": "Avena",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        },
+        {
+          "item": "Avena",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245861",
+      "date_time": "21/11/2023 13:13:00",
+      "price_total": "63.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "63.00"
+        }
+      ],
+      "timestamp_erp": 1700572380,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.75",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salmão Grande",
+          "canceled": "false",
+          "total": "63.00",
+          "price": "63.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245862",
+      "date_time": "21/11/2023 13:14:00",
+      "price_total": "19.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "19.00"
+        }
+      ],
+      "timestamp_erp": 1700572440,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.04",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245863",
+      "date_time": "21/11/2023 13:14:00",
+      "price_total": "38.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "38.00"
+        }
+      ],
+      "timestamp_erp": 1700572440,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Contra filé Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245864",
+      "date_time": "21/11/2023 13:15:00",
+      "price_total": "38.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "38.00"
+        }
+      ],
+      "timestamp_erp": 1700572500,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Steak Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245865",
+      "date_time": "21/11/2023 13:17:00",
+      "price_total": "38.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "38.00"
+        }
+      ],
+      "timestamp_erp": 1700572620,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango Salsa Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245866",
+      "date_time": "21/11/2023 13:18:00",
+      "price_total": "120.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "120.00"
+        }
+      ],
+      "timestamp_erp": 1700572680,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "12.86",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango Salsa Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "32.00",
+          "price": "32.00",
+          "quantity": 1
+        },
+        {
+          "item": "Extra Avocado Pequeño",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Extra Avocado Pequeño",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Oferta Extra",
+          "canceled": "false",
+          "total": "14.00",
+          "price": "14.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ Sonho",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ Nuggets",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245867",
+      "date_time": "21/11/2023 13:20:00",
+      "price_total": "40.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "40.00"
+        }
+      ],
+      "timestamp_erp": 1700572800,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.29",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Pizza SUB Pequeño",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com Nuggets",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Club do SUB",
+          "canceled": "false",
+          "total": "40.00",
+          "price": "40.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245868",
+      "date_time": "21/11/2023 13:20:00",
+      "price_total": "19.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "19.00"
+        }
+      ],
+      "timestamp_erp": 1700572800,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.04",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245869",
+      "date_time": "21/11/2023 13:21:00",
+      "price_total": "19.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "19.00"
+        }
+      ],
+      "timestamp_erp": 1700572860,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.04",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245870",
+      "date_time": "21/11/2023 13:21:00",
+      "price_total": "38.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "38.00"
+        }
+      ],
+      "timestamp_erp": 1700572860,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Empanados",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245871",
+      "date_time": "21/11/2023 13:22:00",
+      "price_total": "37.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "37.00"
+        }
+      ],
+      "timestamp_erp": 1700572920,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.96",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com Nuggets",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245872",
+      "date_time": "21/11/2023 13:27:00",
+      "price_total": "128.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "128.00"
+        }
+      ],
+      "timestamp_erp": 1700573220,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "13.71",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Pizza BMT",
+          "canceled": "false",
+          "total": "270.00",
+          "price": "90.00",
+          "quantity": 3
+        },
+        {
+          "item": "Copo 16 OZ",
+          "canceled": "false",
+          "total": "56.00",
+          "price": "28.00",
+          "quantity": 2
+        },
+        {
+          "item": "Agua Pura",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245873",
+      "date_time": "21/11/2023 13:32:00",
+      "price_total": "26.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "26.00"
+        }
+      ],
+      "timestamp_erp": 1700573520,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.79",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Vegetariano Pequeño",
+          "canceled": "false",
+          "total": "26.00",
+          "price": "26.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245874",
+      "date_time": "21/11/2023 13:33:00",
+      "price_total": "19.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "19.00"
+        }
+      ],
+      "timestamp_erp": 1700573580,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.04",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245875",
+      "date_time": "21/11/2023 13:35:00",
+      "price_total": "78.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "78.00"
+        }
+      ],
+      "timestamp_erp": 1700573700,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "8.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Extra Avocado Pequeño",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Extra Avocado Pequeño",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Oferta Extra",
+          "canceled": "false",
+          "total": "14.00",
+          "price": "14.00",
+          "quantity": 1
+        },
+        {
+          "item": "Cordon Bleu Grande",
+          "canceled": "false",
+          "total": "64.00",
+          "price": "64.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245876",
+      "date_time": "21/11/2023 13:37:00",
+      "price_total": "44.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "44.00"
+        }
+      ],
+      "timestamp_erp": 1700573820,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.71",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "88.00",
+          "price": "44.00",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245877",
+      "date_time": "21/11/2023 13:38:00",
+      "price_total": "37.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "37.00"
+        }
+      ],
+      "timestamp_erp": 1700573880,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.96",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche de frios Pequeño",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245878",
+      "date_time": "21/11/2023 13:39:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1700573940,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245879",
+      "date_time": "21/11/2023 13:40:00",
+      "price_total": "123.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "123.00"
+        }
+      ],
+      "timestamp_erp": 1700574000,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "13.18",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "198.00",
+          "price": "66.00",
+          "quantity": 3
+        },
+        {
+          "item": "Drink da casa+ Nuggets",
+          "canceled": "false",
+          "total": "171.00",
+          "price": "57.00",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245880",
+      "date_time": "21/11/2023 13:44:00",
+      "price_total": "222.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "222.00"
+        }
+      ],
+      "timestamp_erp": 1700574240,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "23.79",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche de frios REGULAR",
+          "canceled": "false",
+          "total": "592.00",
+          "price": "148.00",
+          "quantity": 4
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Drink da casa+ Nuggets",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Drink da casa+ Nuggets",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245881",
+      "date_time": "21/11/2023 13:46:00",
+      "price_total": "151.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "151.00"
+        }
+      ],
+      "timestamp_erp": 1700574360,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "16.18",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Cordon Bleu Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Cordon Bleu Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Contra filé Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Cerveja Nacional+ CHIP",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245882",
+      "date_time": "21/11/2023 13:47:00",
+      "price_total": "37.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "37.00"
+        }
+      ],
+      "timestamp_erp": 1700574420,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.96",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche de frios REGULAR",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245883",
+      "date_time": "21/11/2023 13:49:00",
+      "price_total": "64.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "64.00"
+        }
+      ],
+      "timestamp_erp": 1700574540,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.86",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Empanados",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "3 Nuggetss",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        },
+        {
+          "item": "CHIP",
+          "canceled": "false",
+          "total": "12.00",
+          "price": "12.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245884",
+      "date_time": "21/11/2023 13:51:00",
+      "price_total": "112.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "112.00"
+        }
+      ],
+      "timestamp_erp": 1700574660,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "12.00",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Lombinho Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "76.00",
+          "price": "38.00",
+          "quantity": 2
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "ÁGUA com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245885",
+      "date_time": "21/11/2023 13:52:00",
+      "price_total": "38.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "38.00"
+        }
+      ],
+      "timestamp_erp": 1700574720,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Empanados",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Empanados",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245886",
+      "date_time": "21/11/2023 13:53:00",
+      "price_total": "19.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "19.00"
+        }
+      ],
+      "timestamp_erp": 1700574780,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.04",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245887",
+      "date_time": "21/11/2023 13:54:00",
+      "price_total": "62.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "62.00"
+        }
+      ],
+      "timestamp_erp": 1700574840,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.64",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Lombinho Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "ÁGUA com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "1 Nuggets",
+          "canceled": "false",
+          "total": "6.00",
+          "price": "6.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245888",
+      "date_time": "21/11/2023 13:57:00",
+      "price_total": "121.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "121.00"
+        }
+      ],
+      "timestamp_erp": 1700575020,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "12.96",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245889",
+      "date_time": "21/11/2023 13:59:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1700575140,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245890",
+      "date_time": "21/11/2023 14:01:00",
+      "price_total": "138.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "138.00"
+        }
+      ],
+      "timestamp_erp": 1700575260,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "14.79",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Steak Grande",
+          "canceled": "false",
+          "total": "64.00",
+          "price": "64.00",
+          "quantity": 1
+        },
+        {
+          "item": "Cerveja Nacional+ CHIP",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salmão Pequeño",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245891",
+      "date_time": "21/11/2023 14:03:00",
+      "price_total": "86.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "86.00"
+        }
+      ],
+      "timestamp_erp": 1700575380,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "9.21",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Pizza SUB Pequeño",
+          "canceled": "false",
+          "total": "32.00",
+          "price": "32.00",
+          "quantity": 1
+        },
+        {
+          "item": "Pizza SUB Pequeño",
+          "canceled": "false",
+          "total": "32.00",
+          "price": "32.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245892",
+      "date_time": "21/11/2023 14:04:00",
+      "price_total": "40.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "40.00"
+        }
+      ],
+      "timestamp_erp": 1700575440,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.29",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "ÁGUA com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245893",
+      "date_time": "21/11/2023 14:05:00",
+      "price_total": "41.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "41.00"
+        }
+      ],
+      "timestamp_erp": 1700575500,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.39",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Cerveja Nacional+ CHIP",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245894",
+      "date_time": "21/11/2023 14:07:00",
+      "price_total": "56.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "56.00"
+        }
+      ],
+      "timestamp_erp": 1700575620,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.00",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche de frios Pequeño",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        },
+        {
+          "item": "Cerveja Nacional+ CHIP",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245895",
+      "date_time": "21/11/2023 14:08:00",
+      "price_total": "48.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "48.00"
+        }
+      ],
+      "timestamp_erp": 1700575680,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "5.14",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Agua Pura",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245896",
+      "date_time": "21/11/2023 14:11:00",
+      "price_total": "94.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "94.00"
+        }
+      ],
+      "timestamp_erp": 1700575860,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "10.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "32.00",
+          "price": "32.00",
+          "quantity": 1
+        },
+        {
+          "item": "Steak Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "LATA",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        },
+        {
+          "item": "ICE TEA",
+          "canceled": "false",
+          "total": "14.00",
+          "price": "14.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245897",
+      "date_time": "21/11/2023 14:13:00",
+      "price_total": "97.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "97.00"
+        }
+      ],
+      "timestamp_erp": 1700575980,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "10.39",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche de frios Pequeño",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Cerveja Nacional+ CHIP",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Cerveja Nacional+ CHIP",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245898",
+      "date_time": "21/11/2023 14:14:00",
+      "price_total": "41.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "41.00"
+        }
+      ],
+      "timestamp_erp": 1700576040,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.39",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Cerveja Nacional+ Nuggets",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245899",
+      "date_time": "21/11/2023 14:16:00",
+      "price_total": "82.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "82.00"
+        }
+      ],
+      "timestamp_erp": 1700576160,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "8.79",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Cerveja Nacional+ CHIP",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Cerveja Nacional+ CHIP",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245900",
+      "date_time": "21/11/2023 14:18:00",
+      "price_total": "57.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "57.00"
+        }
+      ],
+      "timestamp_erp": 1700576280,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.11",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245901",
+      "date_time": "21/11/2023 14:19:00",
+      "price_total": "40.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "40.00"
+        }
+      ],
+      "timestamp_erp": 1700576340,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.29",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245902",
+      "date_time": "21/11/2023 14:20:00",
+      "price_total": "67.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "67.00"
+        }
+      ],
+      "timestamp_erp": 1700576400,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "7.18",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Melt Grande (M)",
+          "canceled": "false",
+          "total": "57.00",
+          "price": "57.00",
+          "quantity": 1
+        },
+        {
+          "item": "Agua Pura",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245903",
+      "date_time": "21/11/2023 14:21:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1700576460,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245904",
+      "date_time": "21/11/2023 14:22:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1700576520,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245905",
+      "date_time": "21/11/2023 14:23:00",
+      "price_total": "42.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "42.00"
+        }
+      ],
+      "timestamp_erp": 1700576580,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.50",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Pequeño",
+          "canceled": "false",
+          "total": "32.00",
+          "price": "32.00",
+          "quantity": 1
+        },
+        {
+          "item": "LATA",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245906",
+      "date_time": "21/11/2023 14:25:00",
+      "price_total": "96.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "96.00"
+        }
+      ],
+      "timestamp_erp": 1700576700,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "10.29",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Lombinho Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245907",
+      "date_time": "21/11/2023 14:26:00",
+      "price_total": "63.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "63.00"
+        }
+      ],
+      "timestamp_erp": 1700576760,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.75",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche de frios Grande (BMT)",
+          "canceled": "false",
+          "total": "63.00",
+          "price": "63.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245908",
+      "date_time": "21/11/2023 14:27:00",
+      "price_total": "59.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "59.00"
+        }
+      ],
+      "timestamp_erp": 1700576820,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.32",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salmão Pequeño",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245909",
+      "date_time": "21/11/2023 14:30:00",
+      "price_total": "37.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "37.00"
+        }
+      ],
+      "timestamp_erp": 1700577000,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.96",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com Nuggets",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245910",
+      "date_time": "21/11/2023 14:31:00",
+      "price_total": "37.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "37.00"
+        }
+      ],
+      "timestamp_erp": 1700577060,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.96",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com Nuggets",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245911",
+      "date_time": "21/11/2023 14:33:00",
+      "price_total": "56.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "56.00"
+        }
+      ],
+      "timestamp_erp": 1700577180,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.00",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Cerveja Nacional+ CHIP",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche de frios REGULAR",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245912",
+      "date_time": "21/11/2023 14:34:00",
+      "price_total": "55.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "55.00"
+        }
+      ],
+      "timestamp_erp": 1700577240,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "5.89",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche de frios REGULAR",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com Nuggets",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245913",
+      "date_time": "21/11/2023 14:35:00",
+      "price_total": "19.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "19.00"
+        }
+      ],
+      "timestamp_erp": 1700577300,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.04",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245914",
+      "date_time": "21/11/2023 14:36:00",
+      "price_total": "19.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "19.00"
+        }
+      ],
+      "timestamp_erp": 1700577360,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.04",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245915",
+      "date_time": "21/11/2023 14:38:00",
+      "price_total": "75.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "75.00"
+        }
+      ],
+      "timestamp_erp": 1700577480,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "8.04",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Empanados",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Contra filé Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com Nuggets",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5245916",
+      "date_time": "21/11/2023 14:39:00",
+      "price_total": "19.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "19.00"
+        }
+      ],
+      "timestamp_erp": 1700577540,
+      "details": {
+        "movimento": "",
+        "operator": "02427",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.04",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Empanados",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147541",
+      "date_time": "21/11/2023 07:29:00",
+      "price_total": "20.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "20.00"
+        }
+      ],
+      "timestamp_erp": 1700551740,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.14",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Wrap Ovo/ Salame",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147542",
+      "date_time": "21/11/2023 07:32:00",
+      "price_total": "38.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "38.00"
+        }
+      ],
+      "timestamp_erp": 1700551920,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "76.00",
+          "price": "38.00",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147543",
+      "date_time": "21/11/2023 07:35:00",
+      "price_total": "35.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "35.00"
+        }
+      ],
+      "timestamp_erp": 1700552100,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.75",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "ÁGUA com Nuggets",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "MF Ovo/ Linguiça",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147544",
+      "date_time": "21/11/2023 07:54:00",
+      "price_total": "37.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "37.00"
+        }
+      ],
+      "timestamp_erp": 1700553240,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.96",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche de frios REGULAR",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147545",
+      "date_time": "21/11/2023 07:55:00",
+      "price_total": "37.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "37.00"
+        }
+      ],
+      "timestamp_erp": 1700553300,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.96",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Ovo/ Bacon",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "NECTAR + Salgado",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147546",
+      "date_time": "21/11/2023 08:15:00",
+      "price_total": "64.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "64.00"
+        }
+      ],
+      "timestamp_erp": 1700554500,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.86",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "MF Ovo/ Linguiça",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        },
+        {
+          "item": "MF Ovo/ Linguiça",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        },
+        {
+          "item": "Café com Sequilhos",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        },
+        {
+          "item": "NECTAR + Salgado",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147547",
+      "date_time": "21/11/2023 08:16:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1700554560,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147548",
+      "date_time": "21/11/2023 08:20:00",
+      "price_total": "15.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "15.00"
+        }
+      ],
+      "timestamp_erp": 1700554800,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "1.61",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Tropeiro",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147549",
+      "date_time": "21/11/2023 08:42:00",
+      "price_total": "40.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "40.00"
+        }
+      ],
+      "timestamp_erp": 1700556120,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.29",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "ÁGUA com Nuggets",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147550",
+      "date_time": "21/11/2023 08:49:00",
+      "price_total": "19.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "19.00"
+        }
+      ],
+      "timestamp_erp": 1700556540,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.04",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147551",
+      "date_time": "21/11/2023 08:55:00",
+      "price_total": "17.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "17.00"
+        }
+      ],
+      "timestamp_erp": 1700556900,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "1.82",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "MF Ovo/ Bacon",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147552",
+      "date_time": "21/11/2023 09:07:00",
+      "price_total": "38.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "38.00"
+        }
+      ],
+      "timestamp_erp": 1700557620,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Ovo/ Salame",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Café com Nuggets",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147553",
+      "date_time": "21/11/2023 09:22:00",
+      "price_total": "37.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "37.00"
+        }
+      ],
+      "timestamp_erp": 1700558520,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.96",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "ÁGUA com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147554",
+      "date_time": "21/11/2023 10:01:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1700560860,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147555",
+      "date_time": "21/11/2023 10:03:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1700560980,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147556",
+      "date_time": "21/11/2023 10:15:00",
+      "price_total": "112.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "112.00"
+        }
+      ],
+      "timestamp_erp": 1700561700,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "12.00",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche de frios Pequeño",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche de frios Pequeño",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        },
+        {
+          "item": "Drink da casa+ CHIP",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Drink da casa+ Nuggets",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147557",
+      "date_time": "21/11/2023 10:28:00",
+      "price_total": "40.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "40.00"
+        }
+      ],
+      "timestamp_erp": 1700562480,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.29",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Ovo/ Bacon",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Café com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147558",
+      "date_time": "21/11/2023 11:19:00",
+      "price_total": "18.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "18.00"
+        }
+      ],
+      "timestamp_erp": 1700565540,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "1.93",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "ÁGUA com Banana",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147559",
+      "date_time": "21/11/2023 11:33:00",
+      "price_total": "19.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "19.00"
+        }
+      ],
+      "timestamp_erp": 1700566380,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.04",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147560",
+      "date_time": "21/11/2023 11:39:00",
+      "price_total": "37.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "37.00"
+        }
+      ],
+      "timestamp_erp": 1700566740,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.96",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salmão Pequeño",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147561",
+      "date_time": "21/11/2023 11:44:00",
+      "price_total": "55.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "55.00"
+        }
+      ],
+      "timestamp_erp": 1700567040,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "5.89",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche de frios Pequeño",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147562",
+      "date_time": "21/11/2023 11:56:00",
+      "price_total": "166.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "166.00"
+        }
+      ],
+      "timestamp_erp": 1700567760,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "17.79",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Lombinho Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche de frios Pequeño",
+          "canceled": "false",
+          "total": "148.00",
+          "price": "74.00",
+          "quantity": 2
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com Nuggets",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147563",
+      "date_time": "21/11/2023 11:58:00",
+      "price_total": "120.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "120.00"
+        }
+      ],
+      "timestamp_erp": 1700567880,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "12.86",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "198.00",
+          "price": "66.00",
+          "quantity": 3
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "162.00",
+          "price": "54.00",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147564",
+      "date_time": "21/11/2023 12:01:00",
+      "price_total": "38.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "38.00"
+        }
+      ],
+      "timestamp_erp": 1700568060,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147565",
+      "date_time": "21/11/2023 12:04:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1700568240,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147566",
+      "date_time": "21/11/2023 12:06:00",
+      "price_total": "19.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "19.00"
+        }
+      ],
+      "timestamp_erp": 1700568360,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.04",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147567",
+      "date_time": "21/11/2023 12:07:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1700568420,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147568",
+      "date_time": "21/11/2023 12:07:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1700568420,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147569",
+      "date_time": "21/11/2023 12:25:00",
+      "price_total": "19.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "19.00"
+        }
+      ],
+      "timestamp_erp": 1700569500,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.04",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "WRAP WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147570",
+      "date_time": "21/11/2023 12:33:00",
+      "price_total": "38.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "38.00"
+        }
+      ],
+      "timestamp_erp": 1700569980,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango Salsa Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147571",
+      "date_time": "21/11/2023 12:34:00",
+      "price_total": "41.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "41.00"
+        }
+      ],
+      "timestamp_erp": 1700570040,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.39",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147572",
+      "date_time": "21/11/2023 12:37:00",
+      "price_total": "59.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "59.00"
+        }
+      ],
+      "timestamp_erp": 1700570220,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.32",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salmão Pequeño",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        },
+        {
+          "item": "BURRITO Frango BBQ (BPB)",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147573",
+      "date_time": "21/11/2023 12:40:00",
+      "price_total": "44.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "44.00"
+        }
+      ],
+      "timestamp_erp": 1700570400,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.71",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147574",
+      "date_time": "21/11/2023 12:41:00",
+      "price_total": "19.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "19.00"
+        }
+      ],
+      "timestamp_erp": 1700570460,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.04",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147575",
+      "date_time": "21/11/2023 12:42:00",
+      "price_total": "40.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "40.00"
+        }
+      ],
+      "timestamp_erp": 1700570520,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.29",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "BURRITO Frango BBQ (BPB)",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com Nuggets",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147576",
+      "date_time": "21/11/2023 12:48:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1700570880,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147577",
+      "date_time": "21/11/2023 12:51:00",
+      "price_total": "75.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "75.00"
+        }
+      ],
+      "timestamp_erp": 1700571060,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "8.04",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Drink da casa+ CHIP",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "ÁGUA com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147578",
+      "date_time": "21/11/2023 12:54:00",
+      "price_total": "57.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "57.00"
+        }
+      ],
+      "timestamp_erp": 1700571240,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.11",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "76.00",
+          "price": "38.00",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147579",
+      "date_time": "21/11/2023 12:58:00",
+      "price_total": "34.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "34.00"
+        }
+      ],
+      "timestamp_erp": 1700571480,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.64",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "3 Nuggetss",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147580",
+      "date_time": "21/11/2023 13:26:00",
+      "price_total": "41.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "41.00"
+        }
+      ],
+      "timestamp_erp": 1700573160,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.39",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Cerveja Nacional+ Banana",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147581",
+      "date_time": "21/11/2023 13:30:00",
+      "price_total": "45.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "45.00"
+        }
+      ],
+      "timestamp_erp": 1700573400,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.82",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche de frios REGULAR",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        },
+        {
+          "item": "Extra Queijo",
+          "canceled": "false",
+          "total": "8.00",
+          "price": "8.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147582",
+      "date_time": "21/11/2023 13:31:00",
+      "price_total": "37.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "37.00"
+        }
+      ],
+      "timestamp_erp": 1700573460,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.96",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147583",
+      "date_time": "21/11/2023 13:35:00",
+      "price_total": "111.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "111.00"
+        }
+      ],
+      "timestamp_erp": 1700573700,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "11.89",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche de frios REGULAR",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        },
+        {
+          "item": "Steak Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147584",
+      "date_time": "21/11/2023 13:37:00",
+      "price_total": "37.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "37.00"
+        }
+      ],
+      "timestamp_erp": 1700573820,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.96",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salmão Pequeño",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147585",
+      "date_time": "21/11/2023 13:39:00",
+      "price_total": "41.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "41.00"
+        }
+      ],
+      "timestamp_erp": 1700573940,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.39",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Cerveja Nacional+ CHIP",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147586",
+      "date_time": "21/11/2023 13:41:00",
+      "price_total": "41.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "41.00"
+        }
+      ],
+      "timestamp_erp": 1700574060,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.39",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Drink da casa+ Banana",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147587",
+      "date_time": "21/11/2023 13:43:00",
+      "price_total": "19.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "19.00"
+        }
+      ],
+      "timestamp_erp": 1700574180,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.04",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147588",
+      "date_time": "21/11/2023 13:45:00",
+      "price_total": "40.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "40.00"
+        }
+      ],
+      "timestamp_erp": 1700574300,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.29",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147589",
+      "date_time": "21/11/2023 13:46:00",
+      "price_total": "56.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "56.00"
+        }
+      ],
+      "timestamp_erp": 1700574360,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.00",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Steak Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147590",
+      "date_time": "21/11/2023 13:48:00",
+      "price_total": "37.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "37.00"
+        }
+      ],
+      "timestamp_erp": 1700574480,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.96",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147591",
+      "date_time": "21/11/2023 13:50:00",
+      "price_total": "38.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "38.00"
+        }
+      ],
+      "timestamp_erp": 1700574600,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147592",
+      "date_time": "21/11/2023 13:52:00",
+      "price_total": "111.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "111.00"
+        }
+      ],
+      "timestamp_erp": 1700574720,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "11.89",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche de frios REGULAR",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche de frios REGULAR",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        },
+        {
+          "item": "ÁGUA com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Cerveja Nacional+ CHIP",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147593",
+      "date_time": "21/11/2023 13:55:00",
+      "price_total": "44.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "44.00"
+        }
+      ],
+      "timestamp_erp": 1700574900,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.71",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147594",
+      "date_time": "21/11/2023 13:56:00",
+      "price_total": "82.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "82.00"
+        }
+      ],
+      "timestamp_erp": 1700574960,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "8.79",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Cerveja Nacional+ CHIP",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Cerveja Nacional+ CHIP",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147595",
+      "date_time": "21/11/2023 13:58:00",
+      "price_total": "152.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "152.00"
+        }
+      ],
+      "timestamp_erp": 1700575080,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "16.29",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango BBQ PEQ ",
+          "canceled": "false",
+          "total": "88.00",
+          "price": "44.00",
+          "quantity": 2
+        },
+        {
+          "item": "STEAK ITALIANO COM",
+          "canceled": "false",
+          "total": "70.00",
+          "price": "70.00",
+          "quantity": 1
+        },
+        {
+          "item": "Cerveja Nacional+ CHIP",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Cerveja Nacional+ CHIP",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3147596",
+      "date_time": "21/11/2023 14:01:00",
+      "price_total": "38.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "38.00"
+        }
+      ],
+      "timestamp_erp": 1700575260,
+      "details": {
+        "movimento": "",
+        "operator": "03108",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB WOW",
+          "canceled": "false",
+          "total": "76.00",
+          "price": "38.00",
+          "quantity": 2
+        }
+      ]
+    }
+  ]
+}

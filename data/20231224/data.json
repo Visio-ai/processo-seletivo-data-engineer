@@ -1,0 +1,6966 @@
+{
+  "_id": "20231224",
+  "erp": [
+    {
+      "coupon": "1AM5251119",
+      "date_time": "24/12/2023 07:59:00",
+      "price_total": "20.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "20.00"
+        }
+      ],
+      "timestamp_erp": 1703404740,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.14",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251120",
+      "date_time": "24/12/2023 08:13:00",
+      "price_total": "62.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "62.00"
+        }
+      ],
+      "timestamp_erp": 1703405580,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.64",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche Ovo/ Salame",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "NECTAR",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        },
+        {
+          "item": "NECTAR",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251121",
+      "date_time": "24/12/2023 08:26:00",
+      "price_total": "44.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "44.00"
+        }
+      ],
+      "timestamp_erp": 1703406360,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.71",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "88.00",
+          "price": "44.00",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251122",
+      "date_time": "24/12/2023 08:36:00",
+      "price_total": "30.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "30.00"
+        }
+      ],
+      "timestamp_erp": 1703406960,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.21",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Pizza BMT",
+          "canceled": "false",
+          "total": "30.00",
+          "price": "30.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251123",
+      "date_time": "24/12/2023 08:59:00",
+      "price_total": "380.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "380.00"
+        }
+      ],
+      "timestamp_erp": 1703408340,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "40.71",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "7220.00",
+          "price": "380.00",
+          "quantity": 19
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251124",
+      "date_time": "24/12/2023 09:17:00",
+      "price_total": "37.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "37.00"
+        }
+      ],
+      "timestamp_erp": 1703409420,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.96",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Ovo/ Linguiça",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Café com Sequilhos",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251125",
+      "date_time": "24/12/2023 09:18:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1703409480,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251126",
+      "date_time": "24/12/2023 09:20:00",
+      "price_total": "115.00",
+      "payments": [
+        {
+          "type": "Delivery",
+          "amount": "115.00"
+        }
+      ],
+      "timestamp_erp": 1703409600,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "12.32",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salmão Small",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Pizza da Casa Peq.",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango Salsa Small",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "1 Bolacha",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "CHIP",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "1.5 Litro Pepsi",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "CHIP",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "1 Bolacha",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Combinado da casa",
+          "canceled": "false",
+          "total": "115.00",
+          "price": "115.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251127",
+      "date_time": "24/12/2023 09:42:00",
+      "price_total": "38.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "38.00"
+        }
+      ],
+      "timestamp_erp": 1703410920,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Café com Bolacha",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251128",
+      "date_time": "24/12/2023 09:45:00",
+      "price_total": "82.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "82.00"
+        }
+      ],
+      "timestamp_erp": 1703411100,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "8.79",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche CHAPIN",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche Ovo/ Bacon",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo + Onion Rings",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251129",
+      "date_time": "24/12/2023 09:46:00",
+      "price_total": "35.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "35.00"
+        }
+      ],
+      "timestamp_erp": 1703411160,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.75",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Ovo/ Salame",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Fanta + Salgado",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251130",
+      "date_time": "24/12/2023 09:55:00",
+      "price_total": "130.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "130.00"
+        }
+      ],
+      "timestamp_erp": 1703411700,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "13.93",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "MF Ovo/ Salame",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        },
+        {
+          "item": "MF Ovo/ Salame",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "NECTAR + Salgado",
+          "canceled": "false",
+          "total": "60.00",
+          "price": "30.00",
+          "quantity": 2
+        },
+        {
+          "item": "Café com Sequilhos",
+          "canceled": "false",
+          "total": "60.00",
+          "price": "30.00",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251131",
+      "date_time": "24/12/2023 10:09:00",
+      "price_total": "72.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "72.00"
+        }
+      ],
+      "timestamp_erp": 1703412540,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "7.71",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "MF Ovo/ Salame",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        },
+        {
+          "item": "MF Ovo/ Linguiça",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "80.00",
+          "price": "40.00",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251132",
+      "date_time": "24/12/2023 10:37:00",
+      "price_total": "54.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "54.00"
+        }
+      ],
+      "timestamp_erp": 1703414220,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "5.79",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "80.00",
+          "price": "40.00",
+          "quantity": 2
+        },
+        {
+          "item": "ICE TEA",
+          "canceled": "false",
+          "total": "14.00",
+          "price": "14.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251133",
+      "date_time": "24/12/2023 10:49:00",
+      "price_total": "125.00",
+      "payments": [
+        {
+          "type": "Delivery",
+          "amount": "125.00"
+        }
+      ],
+      "timestamp_erp": 1703414940,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "13.39",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salmão Small",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Pizza da Casa Peq.",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango Salsa Small",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "1 Bolacha",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "CHIP",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "1.5 Litro Pepsi",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "CHIP",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "1 Bolacha",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Combinado da casa",
+          "canceled": "false",
+          "total": "125.00",
+          "price": "125.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251134",
+      "date_time": "24/12/2023 10:53:00",
+      "price_total": "64.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "64.00"
+        }
+      ],
+      "timestamp_erp": 1703415180,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.86",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Extra Bacon",
+          "canceled": "false",
+          "total": "8.00",
+          "price": "8.00",
+          "quantity": 1
+        },
+        {
+          "item": "CAFE",
+          "canceled": "false",
+          "total": "108.00",
+          "price": "36.00",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251135",
+      "date_time": "24/12/2023 10:59:00",
+      "price_total": "58.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "58.00"
+        }
+      ],
+      "timestamp_erp": 1703415540,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.21",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251136",
+      "date_time": "24/12/2023 11:05:00",
+      "price_total": "58.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "58.00"
+        }
+      ],
+      "timestamp_erp": 1703415900,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.21",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251137",
+      "date_time": "24/12/2023 11:37:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1703417820,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251138",
+      "date_time": "24/12/2023 12:02:00",
+      "price_total": "53.00",
+      "payments": [
+        {
+          "type": "Delivery",
+          "amount": "53.00"
+        }
+      ],
+      "timestamp_erp": 1703419320,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "5.68",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "1 Bolacha",
+          "canceled": "false",
+          "total": "9.00",
+          "price": "9.00",
+          "quantity": 1
+        },
+        {
+          "item": "Contra filé Small",
+          "canceled": "false",
+          "total": "44.00",
+          "price": "44.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251139",
+      "date_time": "24/12/2023 12:07:00",
+      "price_total": "40.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "40.00"
+        }
+      ],
+      "timestamp_erp": 1703419620,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.29",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251140",
+      "date_time": "24/12/2023 12:08:00",
+      "price_total": "71.00",
+      "payments": [
+        {
+          "type": "Parceiro",
+          "amount": "71.00"
+        }
+      ],
+      "timestamp_erp": 1703419680,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "7.61",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Contra filé Grande",
+          "canceled": "false",
+          "total": "71.00",
+          "price": "71.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251141",
+      "date_time": "24/12/2023 12:23:00",
+      "price_total": "114.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "64.00"
+        },
+        {
+          "type": "Convênio",
+          "amount": "50.00"
+        }
+      ],
+      "timestamp_erp": 1703420580,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "12.21",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "180.00",
+          "price": "60.00",
+          "quantity": 3
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251142",
+      "date_time": "24/12/2023 12:29:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1703420940,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251143",
+      "date_time": "24/12/2023 12:32:00",
+      "price_total": "14.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "14.00"
+        }
+      ],
+      "timestamp_erp": 1703421120,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "1.50",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Copo 16 OZ",
+          "canceled": "false",
+          "total": "14.00",
+          "price": "14.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251144",
+      "date_time": "24/12/2023 12:39:00",
+      "price_total": "112.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "112.00"
+        }
+      ],
+      "timestamp_erp": 1703421540,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "12.00",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Steak Small",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Steak Small",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251145",
+      "date_time": "24/12/2023 12:40:00",
+      "price_total": "40.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "40.00"
+        }
+      ],
+      "timestamp_erp": 1703421600,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.29",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251146",
+      "date_time": "24/12/2023 12:42:00",
+      "price_total": "15.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "15.00"
+        }
+      ],
+      "timestamp_erp": 1703421720,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "1.61",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "3 Bolachas",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251147",
+      "date_time": "24/12/2023 12:47:00",
+      "price_total": "166.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "166.00"
+        }
+      ],
+      "timestamp_erp": 1703422020,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "17.79",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Steak Grande",
+          "canceled": "false",
+          "total": "68.00",
+          "price": "68.00",
+          "quantity": 1
+        },
+        {
+          "item": "Ad. de Pepperoni pequeno",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Extra Crouton Peq",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Oferta Extra",
+          "canceled": "false",
+          "total": "14.00",
+          "price": "14.00",
+          "quantity": 1
+        },
+        {
+          "item": "Ad. de Pepperoni pequeno",
+          "canceled": "false",
+          "total": "8.00",
+          "price": "8.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251148",
+      "date_time": "24/12/2023 12:49:00",
+      "price_total": "60.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "60.00"
+        }
+      ],
+      "timestamp_erp": 1703422140,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.43",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "180.00",
+          "price": "60.00",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251149",
+      "date_time": "24/12/2023 12:49:00",
+      "price_total": "125.00",
+      "payments": [
+        {
+          "type": "Delivery",
+          "amount": "125.00"
+        }
+      ],
+      "timestamp_erp": 1703422140,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "13.39",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salmão Small",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Pizza da Casa Peq.",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango Salsa Small",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "1 Bolacha",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "CHIP",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "1.5 Litro Pepsi",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "CHIP",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "1 Bolacha",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Combinado da casa",
+          "canceled": "false",
+          "total": "125.00",
+          "price": "125.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251150",
+      "date_time": "24/12/2023 12:53:00",
+      "price_total": "38.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "38.00"
+        }
+      ],
+      "timestamp_erp": 1703422380,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251151",
+      "date_time": "24/12/2023 12:55:00",
+      "price_total": "80.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "80.00"
+        }
+      ],
+      "timestamp_erp": 1703422500,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "8.57",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "320.00",
+          "price": "80.00",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251152",
+      "date_time": "24/12/2023 12:56:00",
+      "price_total": "20.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "20.00"
+        }
+      ],
+      "timestamp_erp": 1703422560,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.14",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Empanados",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251153",
+      "date_time": "24/12/2023 12:58:00",
+      "price_total": "103.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "103.00"
+        }
+      ],
+      "timestamp_erp": 1703422680,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "11.04",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salmão Grande",
+          "canceled": "false",
+          "total": "67.00",
+          "price": "67.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251154",
+      "date_time": "24/12/2023 13:00:00",
+      "price_total": "38.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "38.00"
+        }
+      ],
+      "timestamp_erp": 1703422800,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Lombinho Small",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251155",
+      "date_time": "24/12/2023 13:03:00",
+      "price_total": "76.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "76.00"
+        }
+      ],
+      "timestamp_erp": 1703422980,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "8.14",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Lombinho Small",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lombinho Small",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251156",
+      "date_time": "24/12/2023 13:06:00",
+      "price_total": "185.00",
+      "payments": [
+        {
+          "type": "Delivery",
+          "amount": "185.00"
+        }
+      ],
+      "timestamp_erp": 1703423160,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "19.82",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Bandeja Saludable",
+          "canceled": "false",
+          "total": "185.00",
+          "price": "185.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251157",
+      "date_time": "24/12/2023 13:07:00",
+      "price_total": "40.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "40.00"
+        }
+      ],
+      "timestamp_erp": 1703423220,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.29",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251158",
+      "date_time": "24/12/2023 13:08:00",
+      "price_total": "35.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "35.00"
+        }
+      ],
+      "timestamp_erp": 1703423280,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.75",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "3 Bolachas",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251159",
+      "date_time": "24/12/2023 13:10:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1703423400,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251160",
+      "date_time": "24/12/2023 13:12:00",
+      "price_total": "49.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "49.00"
+        }
+      ],
+      "timestamp_erp": 1703423520,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "5.25",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Extra Frango",
+          "canceled": "false",
+          "total": "14.00",
+          "price": "14.00",
+          "quantity": 1
+        },
+        {
+          "item": "3 Bolachas",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251161",
+      "date_time": "24/12/2023 13:17:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1703423820,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251162",
+      "date_time": "24/12/2023 13:18:00",
+      "price_total": "58.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "58.00"
+        }
+      ],
+      "timestamp_erp": 1703423880,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.21",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Cordon Bleu Small",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251163",
+      "date_time": "24/12/2023 13:20:00",
+      "price_total": "72.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "72.00"
+        }
+      ],
+      "timestamp_erp": 1703424000,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "7.71",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "80.00",
+          "price": "40.00",
+          "quantity": 2
+        },
+        {
+          "item": "WRAP Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "CHIP",
+          "canceled": "false",
+          "total": "12.00",
+          "price": "12.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251164",
+      "date_time": "24/12/2023 13:24:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1703424240,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251165",
+      "date_time": "24/12/2023 13:31:00",
+      "price_total": "185.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "185.00"
+        }
+      ],
+      "timestamp_erp": 1703424660,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "19.82",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sabores sortidos",
+          "canceled": "false",
+          "total": "185.00",
+          "price": "185.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251166",
+      "date_time": "24/12/2023 13:34:00",
+      "price_total": "40.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "40.00"
+        }
+      ],
+      "timestamp_erp": 1703424840,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.29",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251167",
+      "date_time": "24/12/2023 13:35:00",
+      "price_total": "63.00",
+      "payments": [
+        {
+          "type": "Parceiro",
+          "amount": "63.00"
+        }
+      ],
+      "timestamp_erp": 1703424900,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.75",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Drink da casa+ CHIP",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche de frios REGULAR",
+          "canceled": "false",
+          "total": "43.00",
+          "price": "43.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251168",
+      "date_time": "24/12/2023 13:39:00",
+      "price_total": "185.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "185.00"
+        }
+      ],
+      "timestamp_erp": 1703425140,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "19.82",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sabores sortidos",
+          "canceled": "false",
+          "total": "185.00",
+          "price": "185.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251169",
+      "date_time": "24/12/2023 13:42:00",
+      "price_total": "185.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "185.00"
+        }
+      ],
+      "timestamp_erp": 1703425320,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "19.82",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sabores sortidos",
+          "canceled": "false",
+          "total": "185.00",
+          "price": "185.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251170",
+      "date_time": "24/12/2023 13:43:00",
+      "price_total": "20.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "20.00"
+        }
+      ],
+      "timestamp_erp": 1703425380,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.14",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251171",
+      "date_time": "24/12/2023 13:45:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1703425500,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251172",
+      "date_time": "24/12/2023 13:46:00",
+      "price_total": "44.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "44.00"
+        }
+      ],
+      "timestamp_erp": 1703425560,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.71",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251173",
+      "date_time": "24/12/2023 13:47:00",
+      "price_total": "20.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "20.00"
+        }
+      ],
+      "timestamp_erp": 1703425620,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.14",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251174",
+      "date_time": "24/12/2023 13:52:00",
+      "price_total": "132.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "132.00"
+        }
+      ],
+      "timestamp_erp": 1703425920,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "14.14",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "320.00",
+          "price": "80.00",
+          "quantity": 4
+        },
+        {
+          "item": "Ad. de Pepperoni pequeno",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Ad. de Pepperoni pequeno",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Oferta Extra",
+          "canceled": "false",
+          "total": "14.00",
+          "price": "14.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Drink da casa+ CHIP",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251175",
+      "date_time": "24/12/2023 13:56:00",
+      "price_total": "88.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "8.00"
+        },
+        {
+          "type": "Convênio",
+          "amount": "80.00"
+        }
+      ],
+      "timestamp_erp": 1703426160,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "9.43",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Empanados",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Pizza da Casa Peq.",
+          "canceled": "false",
+          "total": "32.00",
+          "price": "32.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251176",
+      "date_time": "24/12/2023 13:57:00",
+      "price_total": "10.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "10.00"
+        }
+      ],
+      "timestamp_erp": 1703426220,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "1.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Brownie",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251177",
+      "date_time": "24/12/2023 13:58:00",
+      "price_total": "40.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "40.00"
+        }
+      ],
+      "timestamp_erp": 1703426280,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.29",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251178",
+      "date_time": "24/12/2023 13:58:00",
+      "price_total": "40.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "40.00"
+        }
+      ],
+      "timestamp_erp": 1703426280,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.29",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251179",
+      "date_time": "24/12/2023 14:00:00",
+      "price_total": "147.00",
+      "payments": [
+        {
+          "type": "Delivery",
+          "amount": "147.00"
+        }
+      ],
+      "timestamp_erp": 1703426400,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "15.75",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salmão Small",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Pizza da Casa Peq.",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango Salsa Small",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "1 Bolacha",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "CHIP",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "1.5 Litro Pepsi",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "1 Bolacha",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "CHIP",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Combinado da casa",
+          "canceled": "false",
+          "total": "125.00",
+          "price": "125.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251180",
+      "date_time": "24/12/2023 14:07:00",
+      "price_total": "80.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "80.00"
+        }
+      ],
+      "timestamp_erp": 1703426820,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "8.57",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "ÁGUA com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251181",
+      "date_time": "24/12/2023 14:08:00",
+      "price_total": "30.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "30.00"
+        }
+      ],
+      "timestamp_erp": 1703426880,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.21",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "WRAP Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "LATA",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251182",
+      "date_time": "24/12/2023 14:11:00",
+      "price_total": "35.00",
+      "payments": [
+        {
+          "type": "Delivery",
+          "amount": "35.00"
+        }
+      ],
+      "timestamp_erp": 1703427060,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.75",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Empanados",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com 1Bolacha",
+          "canceled": "false",
+          "total": "13.00",
+          "price": "13.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251183",
+      "date_time": "24/12/2023 14:24:00",
+      "price_total": "100.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "100.00"
+        }
+      ],
+      "timestamp_erp": 1703427840,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "10.71",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "88.00",
+          "price": "44.00",
+          "quantity": 2
+        },
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ Bolacha",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251184",
+      "date_time": "24/12/2023 14:25:00",
+      "price_total": "78.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "78.00"
+        }
+      ],
+      "timestamp_erp": 1703427900,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "8.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "ÁGUA com Bolacha",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251185",
+      "date_time": "24/12/2023 14:27:00",
+      "price_total": "135.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "135.00"
+        }
+      ],
+      "timestamp_erp": 1703428020,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "14.46",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "3 Bolachas",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251186",
+      "date_time": "24/12/2023 14:29:00",
+      "price_total": "115.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "115.00"
+        }
+      ],
+      "timestamp_erp": 1703428140,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "12.32",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salmão Small",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Pizza da Casa Peq.",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango Salsa Small",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "1 Bolacha",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "CHIP",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "1.5 Litro Pepsi",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "1 Bolacha",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "CHIP",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Combinado da casa",
+          "canceled": "false",
+          "total": "115.00",
+          "price": "115.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251187",
+      "date_time": "24/12/2023 14:31:00",
+      "price_total": "78.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "78.00"
+        }
+      ],
+      "timestamp_erp": 1703428260,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "8.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "ÁGUA com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251188",
+      "date_time": "24/12/2023 14:35:00",
+      "price_total": "184.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "184.00"
+        }
+      ],
+      "timestamp_erp": 1703428500,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "19.71",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Burrito Salame Mortadela (WJP)",
+          "canceled": "false",
+          "total": "198.00",
+          "price": "66.00",
+          "quantity": 3
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "88.00",
+          "price": "44.00",
+          "quantity": 2
+        },
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "162.00",
+          "price": "54.00",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251189",
+      "date_time": "24/12/2023 14:39:00",
+      "price_total": "52.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "52.00"
+        }
+      ],
+      "timestamp_erp": 1703428740,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "5.57",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Pizza da Casa Peq.",
+          "canceled": "false",
+          "total": "32.00",
+          "price": "32.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251190",
+      "date_time": "24/12/2023 14:41:00",
+      "price_total": "28.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "28.00"
+        }
+      ],
+      "timestamp_erp": 1703428860,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.00",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Extra Crouton Peq",
+          "canceled": "false",
+          "total": "8.00",
+          "price": "8.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251191",
+      "date_time": "24/12/2023 14:43:00",
+      "price_total": "111.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "111.00"
+        }
+      ],
+      "timestamp_erp": 1703428980,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "11.89",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche de frios Small",
+          "canceled": "false",
+          "total": "148.00",
+          "price": "74.00",
+          "quantity": 2
+        },
+        {
+          "item": "Salmão Small",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251192",
+      "date_time": "24/12/2023 14:44:00",
+      "price_total": "20.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "20.00"
+        }
+      ],
+      "timestamp_erp": 1703429040,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.14",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251193",
+      "date_time": "24/12/2023 14:46:00",
+      "price_total": "20.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "20.00"
+        }
+      ],
+      "timestamp_erp": 1703429160,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.14",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251194",
+      "date_time": "24/12/2023 14:47:00",
+      "price_total": "20.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "20.00"
+        }
+      ],
+      "timestamp_erp": 1703429220,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.14",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251195",
+      "date_time": "24/12/2023 14:56:00",
+      "price_total": "152.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "152.00"
+        }
+      ],
+      "timestamp_erp": 1703429760,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "16.29",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "980.00",
+          "price": "140.00",
+          "quantity": 7
+        },
+        {
+          "item": "CHIP",
+          "canceled": "false",
+          "total": "12.00",
+          "price": "12.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251196",
+      "date_time": "24/12/2023 14:58:00",
+      "price_total": "60.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "60.00"
+        }
+      ],
+      "timestamp_erp": 1703429880,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.43",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251197",
+      "date_time": "24/12/2023 14:59:00",
+      "price_total": "152.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "152.00"
+        }
+      ],
+      "timestamp_erp": 1703429940,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "16.29",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "180.00",
+          "price": "60.00",
+          "quantity": 3
+        },
+        {
+          "item": "WRAP Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "288.00",
+          "price": "72.00",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251198",
+      "date_time": "24/12/2023 15:00:00",
+      "price_total": "32.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "32.00"
+        }
+      ],
+      "timestamp_erp": 1703430000,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.43",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Pizza da Casa Peq.",
+          "canceled": "false",
+          "total": "32.00",
+          "price": "32.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251199",
+      "date_time": "24/12/2023 15:00:00",
+      "price_total": "20.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "20.00"
+        }
+      ],
+      "timestamp_erp": 1703430000,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.14",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251200",
+      "date_time": "24/12/2023 15:04:00",
+      "price_total": "70.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "70.00"
+        }
+      ],
+      "timestamp_erp": 1703430240,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "7.50",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Contra filé Small",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Pizza da Casa Peq.",
+          "canceled": "false",
+          "total": "32.00",
+          "price": "32.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251201",
+      "date_time": "24/12/2023 15:10:00",
+      "price_total": "58.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "58.00"
+        }
+      ],
+      "timestamp_erp": 1703430600,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.21",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "ÁGUA com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251202",
+      "date_time": "24/12/2023 15:16:00",
+      "price_total": "59.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "59.00"
+        }
+      ],
+      "timestamp_erp": 1703430960,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.32",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Cheddar Small",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com Bolacha",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Cheddar Small",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com Bolacha",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "COMBINADOS",
+          "canceled": "false",
+          "total": "59.00",
+          "price": "59.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251203",
+      "date_time": "24/12/2023 15:18:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1703431080,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251204",
+      "date_time": "24/12/2023 15:19:00",
+      "price_total": "10.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "10.00"
+        }
+      ],
+      "timestamp_erp": 1703431140,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "1.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Agua Pura",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251205",
+      "date_time": "24/12/2023 15:29:00",
+      "price_total": "59.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "59.00"
+        }
+      ],
+      "timestamp_erp": 1703431740,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.32",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche de frios Small",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Empanados Salame PEQ (EJ)",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com Bolacha",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com Bolacha",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "COMBINADOS",
+          "canceled": "false",
+          "total": "59.00",
+          "price": "59.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251206",
+      "date_time": "24/12/2023 15:31:00",
+      "price_total": "38.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "38.00"
+        }
+      ],
+      "timestamp_erp": 1703431860,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251207",
+      "date_time": "24/12/2023 15:37:00",
+      "price_total": "20.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "20.00"
+        }
+      ],
+      "timestamp_erp": 1703432220,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.14",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251208",
+      "date_time": "24/12/2023 15:43:00",
+      "price_total": "78.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "78.00"
+        }
+      ],
+      "timestamp_erp": 1703432580,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "8.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ Bolacha",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251209",
+      "date_time": "24/12/2023 15:44:00",
+      "price_total": "20.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "20.00"
+        }
+      ],
+      "timestamp_erp": 1703432640,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.14",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251210",
+      "date_time": "24/12/2023 16:01:00",
+      "price_total": "20.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "20.00"
+        }
+      ],
+      "timestamp_erp": 1703433660,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.14",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Empanados",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251211",
+      "date_time": "24/12/2023 16:05:00",
+      "price_total": "62.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "62.00"
+        }
+      ],
+      "timestamp_erp": 1703433900,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.64",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251212",
+      "date_time": "24/12/2023 16:09:00",
+      "price_total": "40.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "40.00"
+        }
+      ],
+      "timestamp_erp": 1703434140,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.29",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "80.00",
+          "price": "40.00",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251213",
+      "date_time": "24/12/2023 16:12:00",
+      "price_total": "125.00",
+      "payments": [
+        {
+          "type": "Delivery",
+          "amount": "125.00"
+        }
+      ],
+      "timestamp_erp": 1703434320,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "13.39",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salmão Small",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Pizza da Casa Peq.",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango Salsa Small",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "1 Bolacha",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "CHIP",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "1.5 Litro Pepsi",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "CHIP",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "1 Bolacha",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Combinado da casa",
+          "canceled": "false",
+          "total": "125.00",
+          "price": "125.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251214",
+      "date_time": "24/12/2023 16:14:00",
+      "price_total": "118.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "118.00"
+        }
+      ],
+      "timestamp_erp": 1703434440,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "12.64",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "80.00",
+          "price": "40.00",
+          "quantity": 2
+        },
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "80.00",
+          "price": "40.00",
+          "quantity": 2
+        },
+        {
+          "item": "Frango Salsa Small",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251215",
+      "date_time": "24/12/2023 16:16:00",
+      "price_total": "55.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "55.00"
+        }
+      ],
+      "timestamp_erp": 1703434560,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "5.89",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche de frios Small",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251216",
+      "date_time": "24/12/2023 16:20:00",
+      "price_total": "85.00",
+      "payments": [
+        {
+          "type": "Parceiro",
+          "amount": "85.00"
+        }
+      ],
+      "timestamp_erp": 1703434800,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "9.11",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela Grande ( JP)",
+          "canceled": "false",
+          "total": "65.00",
+          "price": "65.00",
+          "quantity": 1
+        },
+        {
+          "item": "Ad. de Pepperoni pequeno",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        },
+        {
+          "item": "Ad. de Pepperoni pequeno",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251217",
+      "date_time": "24/12/2023 16:20:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Delivery",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1703434800,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251218",
+      "date_time": "24/12/2023 16:35:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1703435700,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251219",
+      "date_time": "24/12/2023 16:41:00",
+      "price_total": "44.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "44.00"
+        }
+      ],
+      "timestamp_erp": 1703436060,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.71",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251220",
+      "date_time": "24/12/2023 16:54:00",
+      "price_total": "98.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "98.00"
+        }
+      ],
+      "timestamp_erp": 1703436840,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "10.50",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ Bolacha",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251221",
+      "date_time": "24/12/2023 17:05:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1703437500,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251222",
+      "date_time": "24/12/2023 17:12:00",
+      "price_total": "59.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "59.00"
+        }
+      ],
+      "timestamp_erp": 1703437920,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.32",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Cheddar Small",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com Bolacha",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Cheddar Small",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com Bolacha",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "COMBINADOS",
+          "canceled": "false",
+          "total": "59.00",
+          "price": "59.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251223",
+      "date_time": "24/12/2023 17:16:00",
+      "price_total": "76.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "76.00"
+        }
+      ],
+      "timestamp_erp": 1703438160,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "8.14",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Lombinho Grande",
+          "canceled": "false",
+          "total": "68.00",
+          "price": "68.00",
+          "quantity": 1
+        },
+        {
+          "item": "Ad. de Pepperoni pequeno",
+          "canceled": "false",
+          "total": "8.00",
+          "price": "8.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251224",
+      "date_time": "24/12/2023 17:27:00",
+      "price_total": "194.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "194.00"
+        }
+      ],
+      "timestamp_erp": 1703438820,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "20.79",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Contra filé Small",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "STEAK ITALIANO MED",
+          "canceled": "false",
+          "total": "40.00",
+          "price": "40.00",
+          "quantity": 1
+        },
+        {
+          "item": "Burrito Salame Mortadela (WJP)",
+          "canceled": "false",
+          "total": "88.00",
+          "price": "44.00",
+          "quantity": 2
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ Sonho",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ Sonho",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251225",
+      "date_time": "24/12/2023 17:30:00",
+      "price_total": "56.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "56.00"
+        }
+      ],
+      "timestamp_erp": 1703439000,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.00",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Cordon Bleu Small",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251226",
+      "date_time": "24/12/2023 17:31:00",
+      "price_total": "38.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "38.00"
+        }
+      ],
+      "timestamp_erp": 1703439060,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ Sonho",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251227",
+      "date_time": "24/12/2023 17:32:00",
+      "price_total": "20.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "20.00"
+        }
+      ],
+      "timestamp_erp": 1703439120,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.14",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251228",
+      "date_time": "24/12/2023 17:32:00",
+      "price_total": "14.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "14.00"
+        }
+      ],
+      "timestamp_erp": 1703439120,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "1.50",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Copo 16 OZ",
+          "canceled": "false",
+          "total": "14.00",
+          "price": "14.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251229",
+      "date_time": "24/12/2023 17:39:00",
+      "price_total": "150.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "150.00"
+        }
+      ],
+      "timestamp_erp": 1703439540,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "16.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Small",
+          "canceled": "false",
+          "total": "288.00",
+          "price": "96.00",
+          "quantity": 3
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "162.00",
+          "price": "54.00",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251230",
+      "date_time": "24/12/2023 17:41:00",
+      "price_total": "185.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "185.00"
+        }
+      ],
+      "timestamp_erp": 1703439660,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "19.82",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Bandeja Saludable",
+          "canceled": "false",
+          "total": "185.00",
+          "price": "185.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251231",
+      "date_time": "24/12/2023 17:41:00",
+      "price_total": "68.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "68.00"
+        }
+      ],
+      "timestamp_erp": 1703439660,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "7.29",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "180.00",
+          "price": "60.00",
+          "quantity": 3
+        },
+        {
+          "item": "Extra Bacon",
+          "canceled": "false",
+          "total": "8.00",
+          "price": "8.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251232",
+      "date_time": "24/12/2023 17:45:00",
+      "price_total": "136.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "136.00"
+        }
+      ],
+      "timestamp_erp": 1703439900,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "14.57",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "320.00",
+          "price": "80.00",
+          "quantity": 4
+        },
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251233",
+      "date_time": "24/12/2023 17:47:00",
+      "price_total": "140.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "140.00"
+        }
+      ],
+      "timestamp_erp": 1703440020,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "15.00",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Cordon Bleu Grande",
+          "canceled": "false",
+          "total": "68.00",
+          "price": "68.00",
+          "quantity": 1
+        },
+        {
+          "item": "Ad. de Pepperoni pequeno",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Ad. de Pepperoni pequeno",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Oferta Extra",
+          "canceled": "false",
+          "total": "14.00",
+          "price": "14.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Cerveja Nacional+ Bolacha",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Agua Pura",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        },
+        {
+          "item": "Agua Pura",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251234",
+      "date_time": "24/12/2023 17:47:00",
+      "price_total": "40.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "40.00"
+        }
+      ],
+      "timestamp_erp": 1703440020,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.29",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "80.00",
+          "price": "40.00",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5251235",
+      "date_time": "24/12/2023 17:50:00",
+      "price_total": "185.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "185.00"
+        }
+      ],
+      "timestamp_erp": 1703440200,
+      "details": {
+        "movimento": "",
+        "operator": "02846",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "19.82",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sabores sortidos",
+          "canceled": "false",
+          "total": "185.00",
+          "price": "185.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149915",
+      "date_time": "24/12/2023 09:53:00",
+      "price_total": "44.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "44.00"
+        }
+      ],
+      "timestamp_erp": 1703411580,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.71",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149916",
+      "date_time": "24/12/2023 10:00:00",
+      "price_total": "82.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "82.00"
+        }
+      ],
+      "timestamp_erp": 1703412000,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "8.79",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Cerveja Nacional+ CHIP",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Drink da casa+ CHIP",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149917",
+      "date_time": "24/12/2023 10:02:00",
+      "price_total": "42.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "42.00"
+        }
+      ],
+      "timestamp_erp": 1703412120,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.50",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche Ovo/ Linguiça",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149918",
+      "date_time": "24/12/2023 10:13:00",
+      "price_total": "20.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "20.00"
+        }
+      ],
+      "timestamp_erp": 1703412780,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.14",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149919",
+      "date_time": "24/12/2023 10:15:00",
+      "price_total": "60.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "60.00"
+        }
+      ],
+      "timestamp_erp": 1703412900,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.43",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "180.00",
+          "price": "60.00",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149920",
+      "date_time": "24/12/2023 11:44:00",
+      "price_total": "84.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "84.00"
+        }
+      ],
+      "timestamp_erp": 1703418240,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "9.00",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "ÁGUA com Bolacha",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149921",
+      "date_time": "24/12/2023 12:12:00",
+      "price_total": "88.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "88.00"
+        }
+      ],
+      "timestamp_erp": 1703419920,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "9.43",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "352.00",
+          "price": "88.00",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149922",
+      "date_time": "24/12/2023 12:18:00",
+      "price_total": "124.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "124.00"
+        }
+      ],
+      "timestamp_erp": 1703420280,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "13.29",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Steak Small",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Steak Small",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Suco c/ Bolacha",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Suco c/ Bolacha",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "CHIP",
+          "canceled": "false",
+          "total": "12.00",
+          "price": "12.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149923",
+      "date_time": "24/12/2023 12:21:00",
+      "price_total": "40.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "40.00"
+        }
+      ],
+      "timestamp_erp": 1703420460,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.29",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "80.00",
+          "price": "40.00",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149924",
+      "date_time": "24/12/2023 12:23:00",
+      "price_total": "66.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "66.00"
+        }
+      ],
+      "timestamp_erp": 1703420580,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "7.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "198.00",
+          "price": "66.00",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149925",
+      "date_time": "24/12/2023 12:48:00",
+      "price_total": "48.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "48.00"
+        }
+      ],
+      "timestamp_erp": 1703422080,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "5.14",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "LATA",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149926",
+      "date_time": "24/12/2023 12:58:00",
+      "price_total": "160.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "160.00"
+        }
+      ],
+      "timestamp_erp": 1703422680,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "17.14",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "352.00",
+          "price": "88.00",
+          "quantity": 4
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "288.00",
+          "price": "72.00",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149927",
+      "date_time": "24/12/2023 12:59:00",
+      "price_total": "185.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "185.00"
+        }
+      ],
+      "timestamp_erp": 1703422740,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "19.82",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sabores sortidos",
+          "canceled": "false",
+          "total": "185.00",
+          "price": "185.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149928",
+      "date_time": "24/12/2023 13:12:00",
+      "price_total": "211.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "211.00"
+        }
+      ],
+      "timestamp_erp": 1703423520,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "22.61",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "198.00",
+          "price": "66.00",
+          "quantity": 3
+        },
+        {
+          "item": "Salmão Grande",
+          "canceled": "false",
+          "total": "67.00",
+          "price": "67.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Cerveja Nacional+ CHIP",
+          "canceled": "false",
+          "total": "180.00",
+          "price": "60.00",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149929",
+      "date_time": "24/12/2023 13:15:00",
+      "price_total": "106.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "106.00"
+        }
+      ],
+      "timestamp_erp": 1703423700,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "11.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche de frios REGULAR",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche de frios REGULAR",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        },
+        {
+          "item": "Extra Sanduíche de frios Small",
+          "canceled": "false",
+          "total": "14.00",
+          "price": "14.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149930",
+      "date_time": "24/12/2023 13:17:00",
+      "price_total": "58.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "58.00"
+        }
+      ],
+      "timestamp_erp": 1703423820,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.21",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "STEAK ITALIANO MED",
+          "canceled": "false",
+          "total": "40.00",
+          "price": "40.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149931",
+      "date_time": "24/12/2023 13:19:00",
+      "price_total": "78.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "78.00"
+        }
+      ],
+      "timestamp_erp": 1703423940,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "8.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango Salsa Small",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149932",
+      "date_time": "24/12/2023 13:29:00",
+      "price_total": "114.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "114.00"
+        }
+      ],
+      "timestamp_erp": 1703424540,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "12.21",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango Salsa Small",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Cordon Bleu Small",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Drink da casa+ CHIP",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Suco c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149933",
+      "date_time": "24/12/2023 13:33:00",
+      "price_total": "50.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "50.00"
+        }
+      ],
+      "timestamp_erp": 1703424780,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "5.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Drink da casa+ CHIP",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Ad. de Pepperoni pequeno",
+          "canceled": "false",
+          "total": "8.00",
+          "price": "8.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149934",
+      "date_time": "24/12/2023 13:40:00",
+      "price_total": "38.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "38.00"
+        }
+      ],
+      "timestamp_erp": 1703425200,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149935",
+      "date_time": "24/12/2023 13:50:00",
+      "price_total": "55.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "55.00"
+        }
+      ],
+      "timestamp_erp": 1703425800,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "5.89",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salmão Small",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149936",
+      "date_time": "24/12/2023 13:57:00",
+      "price_total": "112.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "112.00"
+        }
+      ],
+      "timestamp_erp": 1703426220,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "12.00",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Contra filé Small",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Contra filé Small",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149937",
+      "date_time": "24/12/2023 14:00:00",
+      "price_total": "114.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "114.00"
+        }
+      ],
+      "timestamp_erp": 1703426400,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "12.21",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango Salsa Small",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango Salsa Small",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Drink da casa+ CHIP",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149938",
+      "date_time": "24/12/2023 14:06:00",
+      "price_total": "102.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "102.00"
+        }
+      ],
+      "timestamp_erp": 1703426760,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "10.93",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "72.00",
+          "price": "36.00",
+          "quantity": 2
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "198.00",
+          "price": "66.00",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149939",
+      "date_time": "24/12/2023 14:10:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1703427000,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149940",
+      "date_time": "24/12/2023 14:13:00",
+      "price_total": "60.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "60.00"
+        }
+      ],
+      "timestamp_erp": 1703427180,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.43",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "180.00",
+          "price": "60.00",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149941",
+      "date_time": "24/12/2023 14:28:00",
+      "price_total": "185.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "185.00"
+        }
+      ],
+      "timestamp_erp": 1703428080,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "19.82",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sabores sortidos",
+          "canceled": "false",
+          "total": "185.00",
+          "price": "185.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149942",
+      "date_time": "24/12/2023 14:34:00",
+      "price_total": "247.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "247.00"
+        }
+      ],
+      "timestamp_erp": 1703428440,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "26.46",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Vegetariano Small",
+          "canceled": "false",
+          "total": "26.00",
+          "price": "26.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lombinho Grande",
+          "canceled": "false",
+          "total": "68.00",
+          "price": "68.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lombinho Small",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "80.00",
+          "price": "40.00",
+          "quantity": 2
+        },
+        {
+          "item": "WRAP Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche de frios REGULAR",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149943",
+      "date_time": "24/12/2023 14:42:00",
+      "price_total": "67.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "67.00"
+        }
+      ],
+      "timestamp_erp": 1703428920,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "7.18",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango Pizziola Grande (PZ)",
+          "canceled": "false",
+          "total": "67.00",
+          "price": "67.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149944",
+      "date_time": "24/12/2023 14:45:00",
+      "price_total": "50.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "50.00"
+        }
+      ],
+      "timestamp_erp": 1703429100,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "5.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Cheddar Small",
+          "canceled": "false",
+          "total": "32.00",
+          "price": "32.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149945",
+      "date_time": "24/12/2023 14:48:00",
+      "price_total": "55.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "55.00"
+        }
+      ],
+      "timestamp_erp": 1703429280,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "5.89",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "ÁGUA com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche de frios REGULAR",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149946",
+      "date_time": "24/12/2023 14:52:00",
+      "price_total": "127.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "127.00"
+        }
+      ],
+      "timestamp_erp": 1703429520,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "13.61",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango Salsa Grande",
+          "canceled": "false",
+          "total": "68.00",
+          "price": "68.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche de frios REGULAR",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149947",
+      "date_time": "24/12/2023 14:58:00",
+      "price_total": "57.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "57.00"
+        }
+      ],
+      "timestamp_erp": 1703429880,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.11",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "MF Ovo/ Linguiça",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149948",
+      "date_time": "24/12/2023 15:11:00",
+      "price_total": "80.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "80.00"
+        }
+      ],
+      "timestamp_erp": 1703430660,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "8.57",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "WRAP Bauru",
+          "canceled": "false",
+          "total": "320.00",
+          "price": "80.00",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149949",
+      "date_time": "24/12/2023 15:14:00",
+      "price_total": "82.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "82.00"
+        }
+      ],
+      "timestamp_erp": 1703430840,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "8.79",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Lombinho Grande",
+          "canceled": "false",
+          "total": "68.00",
+          "price": "68.00",
+          "quantity": 1
+        },
+        {
+          "item": "Ad. de Pepperoni pequeno",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Ad. de Pepperoni pequeno",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Oferta Extra",
+          "canceled": "false",
+          "total": "14.00",
+          "price": "14.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149950",
+      "date_time": "24/12/2023 15:18:00",
+      "price_total": "185.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "185.00"
+        }
+      ],
+      "timestamp_erp": 1703431080,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "19.82",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sabores sortidos",
+          "canceled": "false",
+          "total": "185.00",
+          "price": "185.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149951",
+      "date_time": "24/12/2023 15:26:00",
+      "price_total": "112.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "112.00"
+        }
+      ],
+      "timestamp_erp": 1703431560,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "12.00",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Vegetariano Grande",
+          "canceled": "false",
+          "total": "56.00",
+          "price": "56.00",
+          "quantity": 1
+        },
+        {
+          "item": "Vegetariano Grande",
+          "canceled": "false",
+          "total": "56.00",
+          "price": "56.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149952",
+      "date_time": "24/12/2023 15:27:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1703431620,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149953",
+      "date_time": "24/12/2023 15:28:00",
+      "price_total": "20.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "20.00"
+        }
+      ],
+      "timestamp_erp": 1703431680,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.14",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "WRAP Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149954",
+      "date_time": "24/12/2023 15:29:00",
+      "price_total": "42.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "42.00"
+        }
+      ],
+      "timestamp_erp": 1703431740,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.50",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "WRAP Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149955",
+      "date_time": "24/12/2023 15:34:00",
+      "price_total": "20.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "20.00"
+        }
+      ],
+      "timestamp_erp": 1703432040,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.14",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149956",
+      "date_time": "24/12/2023 15:38:00",
+      "price_total": "56.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "56.00"
+        }
+      ],
+      "timestamp_erp": 1703432280,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.00",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Steak Small",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149957",
+      "date_time": "24/12/2023 15:40:00",
+      "price_total": "81.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "81.00"
+        }
+      ],
+      "timestamp_erp": 1703432400,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "8.68",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche de frios REGULAR",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149958",
+      "date_time": "24/12/2023 15:45:00",
+      "price_total": "66.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "66.00"
+        }
+      ],
+      "timestamp_erp": 1703432700,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "7.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Lombinho Small",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Ad. de Pepperoni pequeno",
+          "canceled": "false",
+          "total": "8.00",
+          "price": "8.00",
+          "quantity": 1
+        },
+        {
+          "item": "Drink da casa+ Bolacha",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149959",
+      "date_time": "24/12/2023 15:54:00",
+      "price_total": "38.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "38.00"
+        }
+      ],
+      "timestamp_erp": 1703433240,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Lata com Sonho",
+          "canceled": "false",
+          "total": "18.00",
+          "price": "18.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149960",
+      "date_time": "24/12/2023 15:59:00",
+      "price_total": "37.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "37.00"
+        }
+      ],
+      "timestamp_erp": 1703433540,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.96",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche de frios Small",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149961",
+      "date_time": "24/12/2023 16:01:00",
+      "price_total": "100.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "100.00"
+        }
+      ],
+      "timestamp_erp": 1703433660,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "10.71",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "352.00",
+          "price": "88.00",
+          "quantity": 4
+        },
+        {
+          "item": "CHIP",
+          "canceled": "false",
+          "total": "12.00",
+          "price": "12.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149962",
+      "date_time": "24/12/2023 16:07:00",
+      "price_total": "20.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "20.00"
+        }
+      ],
+      "timestamp_erp": 1703434020,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.14",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149963",
+      "date_time": "24/12/2023 16:27:00",
+      "price_total": "40.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "40.00"
+        }
+      ],
+      "timestamp_erp": 1703435220,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.29",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149964",
+      "date_time": "24/12/2023 16:44:00",
+      "price_total": "44.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "44.00"
+        }
+      ],
+      "timestamp_erp": 1703436240,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.71",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149965",
+      "date_time": "24/12/2023 16:54:00",
+      "price_total": "90.00",
+      "payments": [
+        {
+          "type": "Dinheiro",
+          "amount": "90.00"
+        }
+      ],
+      "timestamp_erp": 1703436840,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "9.64",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Pizza da Casa Peq.",
+          "canceled": "false",
+          "total": "32.00",
+          "price": "32.00",
+          "quantity": 1
+        },
+        {
+          "item": "Steak Small",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3149966",
+      "date_time": "24/12/2023 16:58:00",
+      "price_total": "40.00",
+      "payments": [
+        {
+          "type": "Cartão",
+          "amount": "40.00"
+        }
+      ],
+      "timestamp_erp": 1703437080,
+      "details": {
+        "movimento": "",
+        "operator": "02337",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.29",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche Bauru",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        }
+      ]
+    }
+  ]
+}

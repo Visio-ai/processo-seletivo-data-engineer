@@ -1,0 +1,8202 @@
+{
+  "_id": "20231105",
+  "erp": [
+    {
+      "coupon": "1AM5241903",
+      "date_time": "05/11/2023 07:28:00",
+      "price_total": "65.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "65.00"
+        }
+      ],
+      "timestamp_erp": 1699169280,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.96",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "MF Ovo/ Salame",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB Ovo/ Salame",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Avena",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        },
+        {
+          "item": "Avena",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241904",
+      "date_time": "05/11/2023 07:36:00",
+      "price_total": "38.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "38.00"
+        }
+      ],
+      "timestamp_erp": 1699169760,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "76.00",
+          "price": "38.00",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241905",
+      "date_time": "05/11/2023 07:38:00",
+      "price_total": "147.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "147.00"
+        }
+      ],
+      "timestamp_erp": 1699169880,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "15.75",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Pequeño",
+          "canceled": "false",
+          "total": "288.00",
+          "price": "96.00",
+          "quantity": 3
+        },
+        {
+          "item": "ÁGUA com Nuggets",
+          "canceled": "false",
+          "total": "153.00",
+          "price": "51.00",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241906",
+      "date_time": "05/11/2023 08:04:00",
+      "price_total": "131.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "131.00"
+        }
+      ],
+      "timestamp_erp": 1699171440,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "14.04",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "MF Ovo/ Salame",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        },
+        {
+          "item": "MF Ovo/ Bacon",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        },
+        {
+          "item": "MF Ovo/ Bacon",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB Ovo/ Linguiça",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Café com Sequilhos",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        },
+        {
+          "item": "Café com Sequilhos",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        },
+        {
+          "item": "Café com Sequilhos",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        },
+        {
+          "item": "Café com Sequilhos",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo para casar",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo para casar",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241907",
+      "date_time": "05/11/2023 08:38:00",
+      "price_total": "41.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "41.00"
+        }
+      ],
+      "timestamp_erp": 1699173480,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.39",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Cerveja Nacional+ Nuggets",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241908",
+      "date_time": "05/11/2023 08:45:00",
+      "price_total": "36.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "36.00"
+        }
+      ],
+      "timestamp_erp": 1699173900,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.86",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ tartelete",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241909",
+      "date_time": "05/11/2023 08:49:00",
+      "price_total": "41.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "41.00"
+        }
+      ],
+      "timestamp_erp": 1699174140,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.39",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241910",
+      "date_time": "05/11/2023 08:51:00",
+      "price_total": "191.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "191.00"
+        }
+      ],
+      "timestamp_erp": 1699174260,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "20.46",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sabores sortidos",
+          "canceled": "false",
+          "total": "185.00",
+          "price": "185.00",
+          "quantity": 1
+        },
+        {
+          "item": "1 Nuggets",
+          "canceled": "false",
+          "total": "6.00",
+          "price": "6.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241911",
+      "date_time": "05/11/2023 09:37:00",
+      "price_total": "72.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "72.00"
+        }
+      ],
+      "timestamp_erp": 1699177020,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "7.71",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Wrap CHAPIN",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Wrap Ovo/ Salame",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Café com Sequilhos",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        },
+        {
+          "item": "Café com Nuggets",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241912",
+      "date_time": "05/11/2023 09:42:00",
+      "price_total": "38.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "38.00"
+        }
+      ],
+      "timestamp_erp": 1699177320,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241913",
+      "date_time": "05/11/2023 10:08:00",
+      "price_total": "135.00",
+      "payments": [
+        {
+          "type": "Delivery",
+          "amount": "135.00"
+        }
+      ],
+      "timestamp_erp": 1699178880,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "14.46",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Extra Avocado Pequeño",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 2
+        },
+        {
+          "item": "Extra Crouton Peq",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 2
+        },
+        {
+          "item": "Oferta Extra",
+          "canceled": "false",
+          "total": "64.00",
+          "price": "32.00",
+          "quantity": 2
+        },
+        {
+          "item": "Extra Bacon",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        },
+        {
+          "item": "Empanados",
+          "canceled": "false",
+          "total": "21.00",
+          "price": "21.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "21.00",
+          "price": "21.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com 1Nuggets",
+          "canceled": "false",
+          "total": "13.00",
+          "price": "13.00",
+          "quantity": 1
+        },
+        {
+          "item": "Drink da casa+ CHIP",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "tartelete de Banana",
+          "canceled": "false",
+          "total": "13.00",
+          "price": "13.00",
+          "quantity": 1
+        },
+        {
+          "item": "Certificado Q1.00",
+          "canceled": "false",
+          "total": "25.00",
+          "price": "5.00",
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241914",
+      "date_time": "05/11/2023 10:12:00",
+      "price_total": "54.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "54.00"
+        }
+      ],
+      "timestamp_erp": 1699179120,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "5.79",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Agua Pura",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241915",
+      "date_time": "05/11/2023 10:24:00",
+      "price_total": "76.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "76.00"
+        }
+      ],
+      "timestamp_erp": 1699179840,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "8.14",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Pequeño",
+          "canceled": "false",
+          "total": "32.00",
+          "price": "32.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "3 Nuggetss",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        },
+        {
+          "item": "LATA",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241916",
+      "date_time": "05/11/2023 10:27:00",
+      "price_total": "15.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "15.00"
+        }
+      ],
+      "timestamp_erp": 1699180020,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "1.61",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "3 Nuggetss",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241917",
+      "date_time": "05/11/2023 10:32:00",
+      "price_total": "72.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "72.00"
+        }
+      ],
+      "timestamp_erp": 1699180320,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "7.71",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Wrap Tropeiro",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        },
+        {
+          "item": "Wrap Tropeiro",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        },
+        {
+          "item": "NECTAR + Salgado",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        },
+        {
+          "item": "NECTAR + Salgado",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        },
+        {
+          "item": "CHIP",
+          "canceled": "false",
+          "total": "12.00",
+          "price": "12.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241918",
+      "date_time": "05/11/2023 10:36:00",
+      "price_total": "36.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "36.00"
+        }
+      ],
+      "timestamp_erp": 1699180560,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.86",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241919",
+      "date_time": "05/11/2023 10:42:00",
+      "price_total": "44.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "44.00"
+        }
+      ],
+      "timestamp_erp": 1699180920,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.71",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241920",
+      "date_time": "05/11/2023 10:45:00",
+      "price_total": "92.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "92.00"
+        }
+      ],
+      "timestamp_erp": 1699181100,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "9.86",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Steak Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "CAFE",
+          "canceled": "false",
+          "total": "12.00",
+          "price": "12.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241921",
+      "date_time": "05/11/2023 10:47:00",
+      "price_total": "10.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "10.00"
+        }
+      ],
+      "timestamp_erp": 1699181220,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "1.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Agua Pura",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241922",
+      "date_time": "05/11/2023 10:48:00",
+      "price_total": "185.00",
+      "payments": [
+        {
+          "type": "Delivery",
+          "amount": "185.00"
+        }
+      ],
+      "timestamp_erp": 1699181280,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "19.82",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Bandeja Saludable",
+          "canceled": "false",
+          "total": "185.00",
+          "price": "185.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241923",
+      "date_time": "05/11/2023 10:50:00",
+      "price_total": "38.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "38.00"
+        }
+      ],
+      "timestamp_erp": 1699181400,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241924",
+      "date_time": "05/11/2023 10:52:00",
+      "price_total": "12.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "12.00"
+        }
+      ],
+      "timestamp_erp": 1699181520,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "1.29",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "CHIP",
+          "canceled": "false",
+          "total": "12.00",
+          "price": "12.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241925",
+      "date_time": "05/11/2023 11:10:00",
+      "price_total": "32.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "32.00"
+        }
+      ],
+      "timestamp_erp": 1699182600,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.43",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "MF CHAPIN",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        },
+        {
+          "item": "ÁGUA com CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241926",
+      "date_time": "05/11/2023 11:13:00",
+      "price_total": "106.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "106.00"
+        }
+      ],
+      "timestamp_erp": 1699182780,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "11.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Ovo/ Salame",
+          "canceled": "false",
+          "total": "80.00",
+          "price": "40.00",
+          "quantity": 2
+        },
+        {
+          "item": "SUB Ovo/ Linguiça",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "CAFE + Onion Rings",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo + Onion Rings",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241927",
+      "date_time": "05/11/2023 11:16:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1699182960,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241928",
+      "date_time": "05/11/2023 11:21:00",
+      "price_total": "92.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "92.00"
+        }
+      ],
+      "timestamp_erp": 1699183260,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "9.86",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "PIzza Sub Grande",
+          "canceled": "false",
+          "total": "58.00",
+          "price": "58.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241929",
+      "date_time": "05/11/2023 11:28:00",
+      "price_total": "93.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "93.00"
+        }
+      ],
+      "timestamp_erp": 1699183680,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "9.96",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "76.00",
+          "price": "38.00",
+          "quantity": 2
+        },
+        {
+          "item": "Café com Nuggets",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango Salsa Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241930",
+      "date_time": "05/11/2023 11:29:00",
+      "price_total": "185.00",
+      "payments": [
+        {
+          "type": "Delivery",
+          "amount": "185.00"
+        }
+      ],
+      "timestamp_erp": 1699183740,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "19.82",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sabores sortidos",
+          "canceled": "false",
+          "total": "185.00",
+          "price": "185.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241931",
+      "date_time": "05/11/2023 11:31:00",
+      "price_total": "41.00",
+      "payments": [
+        {
+          "type": "Delivery",
+          "amount": "41.00"
+        }
+      ],
+      "timestamp_erp": 1699183860,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.39",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "21.00",
+          "price": "21.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241932",
+      "date_time": "05/11/2023 11:33:00",
+      "price_total": "51.00",
+      "payments": [
+        {
+          "type": "Delivery",
+          "amount": "51.00"
+        }
+      ],
+      "timestamp_erp": 1699183980,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "5.46",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "21.00",
+          "price": "21.00",
+          "quantity": 1
+        },
+        {
+          "item": "Extra Queijo",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        },
+        {
+          "item": "Extra Bacon",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        },
+        {
+          "item": "Extra Crouton Peq",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241933",
+      "date_time": "05/11/2023 11:35:00",
+      "price_total": "57.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "57.00"
+        }
+      ],
+      "timestamp_erp": 1699184100,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.11",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "171.00",
+          "price": "57.00",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241934",
+      "date_time": "05/11/2023 11:37:00",
+      "price_total": "15.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "15.00"
+        }
+      ],
+      "timestamp_erp": 1699184220,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "1.61",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Waffle",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241935",
+      "date_time": "05/11/2023 11:49:00",
+      "price_total": "40.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "40.00"
+        }
+      ],
+      "timestamp_erp": 1699184940,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.29",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Pizza SUB Pequeño",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com Nuggets",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Club do SUB",
+          "canceled": "false",
+          "total": "40.00",
+          "price": "40.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241936",
+      "date_time": "05/11/2023 11:51:00",
+      "price_total": "110.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "110.00"
+        }
+      ],
+      "timestamp_erp": 1699185060,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "11.79",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Contra filé Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ Nuggets",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241937",
+      "date_time": "05/11/2023 11:56:00",
+      "price_total": "44.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "44.00"
+        }
+      ],
+      "timestamp_erp": 1699185360,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.71",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241938",
+      "date_time": "05/11/2023 12:01:00",
+      "price_total": "148.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "148.00"
+        }
+      ],
+      "timestamp_erp": 1699185660,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "15.86",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "BMT Pequeño",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        },
+        {
+          "item": "BMT Pequeño",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        },
+        {
+          "item": "BMT Pequeño",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        },
+        {
+          "item": "BMT Pequeño",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241939",
+      "date_time": "05/11/2023 12:04:00",
+      "price_total": "49.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "49.00"
+        }
+      ],
+      "timestamp_erp": 1699185840,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "5.25",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Pizza SUB Pequeño",
+          "canceled": "false",
+          "total": "32.00",
+          "price": "32.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ Nuggets",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241940",
+      "date_time": "05/11/2023 12:07:00",
+      "price_total": "57.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "57.00"
+        }
+      ],
+      "timestamp_erp": 1699186020,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.11",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Empanados",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Empanados",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Empanados",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241941",
+      "date_time": "05/11/2023 12:12:00",
+      "price_total": "36.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "36.00"
+        }
+      ],
+      "timestamp_erp": 1699186320,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.86",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241942",
+      "date_time": "05/11/2023 12:14:00",
+      "price_total": "38.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "38.00"
+        }
+      ],
+      "timestamp_erp": 1699186440,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241943",
+      "date_time": "05/11/2023 12:20:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1699186800,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241944",
+      "date_time": "05/11/2023 12:26:00",
+      "price_total": "57.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "57.00"
+        }
+      ],
+      "timestamp_erp": 1699187160,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.11",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "STEAK ITALIANO MED",
+          "canceled": "false",
+          "total": "40.00",
+          "price": "40.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241945",
+      "date_time": "05/11/2023 12:27:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1699187220,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241946",
+      "date_time": "05/11/2023 12:29:00",
+      "price_total": "87.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "87.00"
+        }
+      ],
+      "timestamp_erp": 1699187340,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "9.32",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "171.00",
+          "price": "57.00",
+          "quantity": 3
+        },
+        {
+          "item": "LATA",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        },
+        {
+          "item": "NECTAR",
+          "canceled": "false",
+          "total": "40.00",
+          "price": "20.00",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241947",
+      "date_time": "05/11/2023 12:32:00",
+      "price_total": "95.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "95.00"
+        }
+      ],
+      "timestamp_erp": 1699187520,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "10.18",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Burrito Salame Mortadela (WJP)",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salmão Pequeño",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        },
+        {
+          "item": "Cerveja Nacional+ Nuggets",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ Sonho",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241948",
+      "date_time": "05/11/2023 12:33:00",
+      "price_total": "41.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "41.00"
+        }
+      ],
+      "timestamp_erp": 1699187580,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.39",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Drink da casa+ CHIP",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241949",
+      "date_time": "05/11/2023 12:35:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1699187700,
+      "details": {
+        "movimento": "",
+        "operator": "01314",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241950",
+      "date_time": "05/11/2023 12:46:00",
+      "price_total": "163.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "163.00"
+        }
+      ],
+      "timestamp_erp": 1699188360,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "17.46",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB CHAPIN",
+          "canceled": "false",
+          "total": "320.00",
+          "price": "80.00",
+          "quantity": 4
+        },
+        {
+          "item": "Café com CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        },
+        {
+          "item": "Café com CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        },
+        {
+          "item": "Suco c/ CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        },
+        {
+          "item": "Suco c/ CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        },
+        {
+          "item": "3 Nuggetss",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241951",
+      "date_time": "05/11/2023 12:47:00",
+      "price_total": "15.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "15.00"
+        }
+      ],
+      "timestamp_erp": 1699188420,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "1.61",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "3 Nuggetss",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241952",
+      "date_time": "05/11/2023 12:49:00",
+      "price_total": "32.00",
+      "payments": [
+        {
+          "type": "Delivery",
+          "amount": "32.00"
+        }
+      ],
+      "timestamp_erp": 1699188540,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.43",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Empanados",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com 1Nuggets",
+          "canceled": "false",
+          "total": "13.00",
+          "price": "13.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241953",
+      "date_time": "05/11/2023 12:55:00",
+      "price_total": "110.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "110.00"
+        }
+      ],
+      "timestamp_erp": 1699188900,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "11.79",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "304.00",
+          "price": "76.00",
+          "quantity": 4
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241954",
+      "date_time": "05/11/2023 12:59:00",
+      "price_total": "151.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "151.00"
+        }
+      ],
+      "timestamp_erp": 1699189140,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "16.18",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Porco assado Gde",
+          "canceled": "false",
+          "total": "64.00",
+          "price": "64.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salmão Grande",
+          "canceled": "false",
+          "total": "63.00",
+          "price": "63.00",
+          "quantity": 1
+        },
+        {
+          "item": "CHIP",
+          "canceled": "false",
+          "total": "12.00",
+          "price": "12.00",
+          "quantity": 1
+        },
+        {
+          "item": "CHIP",
+          "canceled": "false",
+          "total": "12.00",
+          "price": "12.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241955",
+      "date_time": "05/11/2023 13:01:00",
+      "price_total": "98.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "98.00"
+        }
+      ],
+      "timestamp_erp": 1699189260,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "10.50",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Pizza SUB Pequeño",
+          "canceled": "false",
+          "total": "32.00",
+          "price": "32.00",
+          "quantity": 1
+        },
+        {
+          "item": "Pizza SUB Pequeño",
+          "canceled": "false",
+          "total": "32.00",
+          "price": "32.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241956",
+      "date_time": "05/11/2023 13:02:00",
+      "price_total": "72.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "72.00"
+        }
+      ],
+      "timestamp_erp": 1699189320,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "7.71",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241957",
+      "date_time": "05/11/2023 13:06:00",
+      "price_total": "161.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "161.00"
+        }
+      ],
+      "timestamp_erp": 1699189560,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "17.25",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "BMT MARINARA COM",
+          "canceled": "false",
+          "total": "70.00",
+          "price": "70.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango Salsa Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        },
+        {
+          "item": "Cerveja Nacional+ CHIP",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241958",
+      "date_time": "05/11/2023 13:13:00",
+      "price_total": "34.00",
+      "payments": [
+        {
+          "type": "Delivery",
+          "amount": "34.00"
+        }
+      ],
+      "timestamp_erp": 1699189980,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.64",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Empanados",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com 1Nuggets",
+          "canceled": "false",
+          "total": "13.00",
+          "price": "13.00",
+          "quantity": 1
+        },
+        {
+          "item": "Certificado Q1.00",
+          "canceled": "false",
+          "total": "1.00",
+          "price": "1.00",
+          "quantity": 1
+        },
+        {
+          "item": "Certificado Q1.00",
+          "canceled": "false",
+          "total": "1.00",
+          "price": "1.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241959",
+      "date_time": "05/11/2023 13:16:00",
+      "price_total": "63.00",
+      "payments": [
+        {
+          "type": "Delivery",
+          "amount": "63.00"
+        }
+      ],
+      "timestamp_erp": 1699190160,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.75",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "BMT Pequeño",
+          "canceled": "false",
+          "total": "43.00",
+          "price": "43.00",
+          "quantity": 1
+        },
+        {
+          "item": "ÁGUA com CHIP",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241960",
+      "date_time": "05/11/2023 13:17:00",
+      "price_total": "185.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "185.00"
+        }
+      ],
+      "timestamp_erp": 1699190220,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "19.82",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sabores sortidos",
+          "canceled": "false",
+          "total": "185.00",
+          "price": "185.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241961",
+      "date_time": "05/11/2023 13:22:00",
+      "price_total": "178.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "178.00"
+        }
+      ],
+      "timestamp_erp": 1699190520,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "19.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "352.00",
+          "price": "88.00",
+          "quantity": 4
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "272.00",
+          "price": "68.00",
+          "quantity": 4
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241962",
+      "date_time": "05/11/2023 13:24:00",
+      "price_total": "48.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "48.00"
+        }
+      ],
+      "timestamp_erp": 1699190640,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "5.14",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango Salsa Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": " Sonho",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241963",
+      "date_time": "05/11/2023 13:25:00",
+      "price_total": "36.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "36.00"
+        }
+      ],
+      "timestamp_erp": 1699190700,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.86",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241964",
+      "date_time": "05/11/2023 13:37:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1699191420,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241965",
+      "date_time": "05/11/2023 13:38:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1699191480,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241966",
+      "date_time": "05/11/2023 13:45:00",
+      "price_total": "112.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "112.00"
+        }
+      ],
+      "timestamp_erp": 1699191900,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "12.00",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "88.00",
+          "price": "44.00",
+          "quantity": 2
+        },
+        {
+          "item": "Pizza SUB Pequeño",
+          "canceled": "false",
+          "total": "32.00",
+          "price": "32.00",
+          "quantity": 1
+        },
+        {
+          "item": "Cerveja Nacional+ CHIP",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241967",
+      "date_time": "05/11/2023 13:47:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1699192020,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241968",
+      "date_time": "05/11/2023 13:56:00",
+      "price_total": "103.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "103.00"
+        }
+      ],
+      "timestamp_erp": 1699192560,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "11.04",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "BMT Pequeño",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo + Onion Rings",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo + Onion Rings",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241969",
+      "date_time": "05/11/2023 13:57:00",
+      "price_total": "41.00",
+      "payments": [
+        {
+          "type": "Delivery",
+          "amount": "41.00"
+        }
+      ],
+      "timestamp_erp": 1699192620,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.39",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "21.00",
+          "price": "21.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com Nuggets",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241970",
+      "date_time": "05/11/2023 14:01:00",
+      "price_total": "78.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "78.00"
+        }
+      ],
+      "timestamp_erp": 1699192860,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "8.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salmão Pequeño",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Drink da casa+ CHIP",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241971",
+      "date_time": "05/11/2023 14:08:00",
+      "price_total": "77.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "77.00"
+        }
+      ],
+      "timestamp_erp": 1699193280,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "8.25",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Empanados",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Empanados",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241972",
+      "date_time": "05/11/2023 14:14:00",
+      "price_total": "185.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "185.00"
+        }
+      ],
+      "timestamp_erp": 1699193640,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "19.82",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Sabores sortidos",
+          "canceled": "false",
+          "total": "185.00",
+          "price": "185.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241973",
+      "date_time": "05/11/2023 14:16:00",
+      "price_total": "39.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "39.00"
+        }
+      ],
+      "timestamp_erp": 1699193760,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.18",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241974",
+      "date_time": "05/11/2023 14:20:00",
+      "price_total": "78.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "78.00"
+        }
+      ],
+      "timestamp_erp": 1699194000,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "8.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "88.00",
+          "price": "44.00",
+          "quantity": 2
+        },
+        {
+          "item": "Suco c/ Nuggets",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        },
+        {
+          "item": "Suco c/ Nuggets",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241975",
+      "date_time": "05/11/2023 14:21:00",
+      "price_total": "44.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "44.00"
+        }
+      ],
+      "timestamp_erp": 1699194060,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.71",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "88.00",
+          "price": "44.00",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241976",
+      "date_time": "05/11/2023 14:23:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1699194180,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241977",
+      "date_time": "05/11/2023 14:28:00",
+      "price_total": "72.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "72.00"
+        }
+      ],
+      "timestamp_erp": 1699194480,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "7.71",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Extra Avocado Pequeño",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Extra Avocado Pequeño",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Oferta Extra",
+          "canceled": "false",
+          "total": "14.00",
+          "price": "14.00",
+          "quantity": 1
+        },
+        {
+          "item": "Extra Crouton Peq",
+          "canceled": "false",
+          "total": "8.00",
+          "price": "8.00",
+          "quantity": 1
+        },
+        {
+          "item": "Sanduíche de Peru peq",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "CHIP",
+          "canceled": "false",
+          "total": "12.00",
+          "price": "12.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241978",
+      "date_time": "05/11/2023 14:29:00",
+      "price_total": "36.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "36.00"
+        }
+      ],
+      "timestamp_erp": 1699194540,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.86",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241979",
+      "date_time": "05/11/2023 14:34:00",
+      "price_total": "64.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "64.00"
+        }
+      ],
+      "timestamp_erp": 1699194840,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.86",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "LATA",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        },
+        {
+          "item": "LATA",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241980",
+      "date_time": "05/11/2023 14:36:00",
+      "price_total": "72.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "72.00"
+        }
+      ],
+      "timestamp_erp": 1699194960,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "7.71",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241981",
+      "date_time": "05/11/2023 14:47:00",
+      "price_total": "90.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "90.00"
+        }
+      ],
+      "timestamp_erp": 1699195620,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "9.64",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "BMT Pequeño",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241982",
+      "date_time": "05/11/2023 14:51:00",
+      "price_total": "115.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "115.00"
+        }
+      ],
+      "timestamp_erp": 1699195860,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "12.32",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Pizza SUB Pequeño",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango Salsa Pequeño",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "1 Nuggets",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "CHIP",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "1.5 Litro Pepsi",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango Salsa Pequeño",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "1 Nuggets",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "CHIP",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Combinado da casa",
+          "canceled": "false",
+          "total": "115.00",
+          "price": "115.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241983",
+      "date_time": "05/11/2023 14:53:00",
+      "price_total": "104.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "104.00"
+        }
+      ],
+      "timestamp_erp": 1699195980,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "11.14",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Pizza SUB Pequeño",
+          "canceled": "false",
+          "total": "32.00",
+          "price": "32.00",
+          "quantity": 1
+        },
+        {
+          "item": "Contra filé Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241984",
+      "date_time": "05/11/2023 14:55:00",
+      "price_total": "66.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "66.00"
+        }
+      ],
+      "timestamp_erp": 1699196100,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "7.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241985",
+      "date_time": "05/11/2023 14:56:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1699196160,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241986",
+      "date_time": "05/11/2023 15:02:00",
+      "price_total": "72.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "72.00"
+        }
+      ],
+      "timestamp_erp": 1699196520,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "7.71",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Suco c/ CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        },
+        {
+          "item": "Café com CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241987",
+      "date_time": "05/11/2023 15:17:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1699197420,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241988",
+      "date_time": "05/11/2023 15:17:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1699197420,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241989",
+      "date_time": "05/11/2023 15:25:00",
+      "price_total": "127.00",
+      "payments": [
+        {
+          "type": "Delivery",
+          "amount": "127.00"
+        }
+      ],
+      "timestamp_erp": 1699197900,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "13.61",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "BMT Pequeño",
+          "canceled": "false",
+          "total": "43.00",
+          "price": "43.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango Salsa Pequeño",
+          "canceled": "false",
+          "total": "44.00",
+          "price": "44.00",
+          "quantity": 1
+        },
+        {
+          "item": "ÁGUA com CHIP",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com Nuggets",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241990",
+      "date_time": "05/11/2023 15:30:00",
+      "price_total": "121.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "121.00"
+        }
+      ],
+      "timestamp_erp": 1699198200,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "12.96",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "88.00",
+          "price": "44.00",
+          "quantity": 2
+        },
+        {
+          "item": "Salmão Pequeño",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        },
+        {
+          "item": "1 Nuggets",
+          "canceled": "false",
+          "total": "6.00",
+          "price": "6.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241991",
+      "date_time": "05/11/2023 15:39:00",
+      "price_total": "173.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "173.00"
+        }
+      ],
+      "timestamp_erp": 1699198740,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "18.54",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "304.00",
+          "price": "76.00",
+          "quantity": 4
+        },
+        {
+          "item": "WRAP Clássico",
+          "canceled": "false",
+          "total": "171.00",
+          "price": "57.00",
+          "quantity": 3
+        },
+        {
+          "item": "Bowls Frango",
+          "canceled": "false",
+          "total": "40.00",
+          "price": "40.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241992",
+      "date_time": "05/11/2023 15:45:00",
+      "price_total": "38.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "38.00"
+        }
+      ],
+      "timestamp_erp": 1699199100,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "WRAP Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "WRAP Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241993",
+      "date_time": "05/11/2023 15:50:00",
+      "price_total": "66.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "66.00"
+        }
+      ],
+      "timestamp_erp": 1699199400,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "7.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "198.00",
+          "price": "66.00",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241994",
+      "date_time": "05/11/2023 15:54:00",
+      "price_total": "57.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "57.00"
+        }
+      ],
+      "timestamp_erp": 1699199640,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.11",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Lombinho Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Drink da casa+ CHIP",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241995",
+      "date_time": "05/11/2023 15:56:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1699199760,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241996",
+      "date_time": "05/11/2023 16:01:00",
+      "price_total": "74.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "74.00"
+        }
+      ],
+      "timestamp_erp": 1699200060,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "7.93",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Pizza SUB Pequeño",
+          "canceled": "false",
+          "total": "32.00",
+          "price": "32.00",
+          "quantity": 1
+        },
+        {
+          "item": "Pizza SUB Pequeño",
+          "canceled": "false",
+          "total": "32.00",
+          "price": "32.00",
+          "quantity": 1
+        },
+        {
+          "item": "Agua Pura",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241997",
+      "date_time": "05/11/2023 16:06:00",
+      "price_total": "44.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "44.00"
+        }
+      ],
+      "timestamp_erp": 1699200360,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.71",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241998",
+      "date_time": "05/11/2023 16:11:00",
+      "price_total": "44.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "44.00"
+        }
+      ],
+      "timestamp_erp": 1699200660,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.71",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5241999",
+      "date_time": "05/11/2023 16:16:00",
+      "price_total": "83.00",
+      "payments": [
+        {
+          "type": "Delivery",
+          "amount": "83.00"
+        }
+      ],
+      "timestamp_erp": 1699200960,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "8.89",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Melt Pequeño (M)",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com Nuggets",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Melt Pequeño (M)",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com Nuggets",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "COMBINADOS",
+          "canceled": "false",
+          "total": "62.00",
+          "price": "62.00",
+          "quantity": 1
+        },
+        {
+          "item": "Empanados",
+          "canceled": "false",
+          "total": "21.00",
+          "price": "21.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242000",
+      "date_time": "05/11/2023 16:17:00",
+      "price_total": "41.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "41.00"
+        }
+      ],
+      "timestamp_erp": 1699201020,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.39",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Drink da casa+ Nuggets",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242001",
+      "date_time": "05/11/2023 16:23:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1699201380,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242002",
+      "date_time": "05/11/2023 16:39:00",
+      "price_total": "157.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "157.00"
+        }
+      ],
+      "timestamp_erp": 1699202340,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "16.82",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "BMT Pequeño",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 2
+        },
+        {
+          "item": "Empanados Salame PEQ (EJ)",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 2
+        },
+        {
+          "item": "Lata com Nuggets",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 2
+        },
+        {
+          "item": "Lata com Nuggets",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 2
+        },
+        {
+          "item": "COMBINADOS",
+          "canceled": "false",
+          "total": "236.00",
+          "price": "118.00",
+          "quantity": 2
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Suco c/ CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242003",
+      "date_time": "05/11/2023 16:41:00",
+      "price_total": "36.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "36.00"
+        }
+      ],
+      "timestamp_erp": 1699202460,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.86",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Empanados",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242004",
+      "date_time": "05/11/2023 16:42:00",
+      "price_total": "130.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "130.00"
+        }
+      ],
+      "timestamp_erp": 1699202520,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "13.93",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "PIzza Sub Grande",
+          "canceled": "false",
+          "total": "58.00",
+          "price": "58.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "76.00",
+          "price": "38.00",
+          "quantity": 2
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242005",
+      "date_time": "05/11/2023 16:43:00",
+      "price_total": "59.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "59.00"
+        }
+      ],
+      "timestamp_erp": 1699202580,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.32",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Melt Pequeño (M)",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Empanados Salame PEQ (EJ)",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com Nuggets",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com Nuggets",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "COMBINADOS",
+          "canceled": "false",
+          "total": "59.00",
+          "price": "59.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242006",
+      "date_time": "05/11/2023 16:47:00",
+      "price_total": "73.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "73.00"
+        }
+      ],
+      "timestamp_erp": 1699202820,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "7.82",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Melt Pequeño (M)",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Empanados Salame PEQ (EJ)",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "ÁGUA com Nuggets",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "ÁGUA com Nuggets",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "COMBINADOS",
+          "canceled": "false",
+          "total": "59.00",
+          "price": "59.00",
+          "quantity": 1
+        },
+        {
+          "item": "Extra Steak",
+          "canceled": "false",
+          "total": "14.00",
+          "price": "14.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242007",
+      "date_time": "05/11/2023 16:50:00",
+      "price_total": "139.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "139.00"
+        }
+      ],
+      "timestamp_erp": 1699203000,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "14.89",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Contra filé Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Cerveja Nacional+ Nuggets",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Cerveja Nacional+ Nuggets",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Cerveja Nacional+ Nuggets",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242008",
+      "date_time": "05/11/2023 16:54:00",
+      "price_total": "110.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "110.00"
+        }
+      ],
+      "timestamp_erp": 1699203240,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "11.79",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Burrito Rotisserie Chicken",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Burrito Contra filé (WBBQ)",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Suco c/ CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242009",
+      "date_time": "05/11/2023 17:00:00",
+      "price_total": "82.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "82.00"
+        }
+      ],
+      "timestamp_erp": 1699203600,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "8.79",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "STEAK ITALIANO COM",
+          "canceled": "false",
+          "total": "70.00",
+          "price": "70.00",
+          "quantity": 1
+        },
+        {
+          "item": "CHIP",
+          "canceled": "false",
+          "total": "12.00",
+          "price": "12.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242010",
+      "date_time": "05/11/2023 17:03:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1699203780,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242011",
+      "date_time": "05/11/2023 17:12:00",
+      "price_total": "84.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "84.00"
+        }
+      ],
+      "timestamp_erp": 1699204320,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "9.00",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Steak Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        },
+        {
+          "item": "Agua Pura",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242012",
+      "date_time": "05/11/2023 17:14:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1699204440,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242013",
+      "date_time": "05/11/2023 17:15:00",
+      "price_total": "17.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "17.00"
+        }
+      ],
+      "timestamp_erp": 1699204500,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "1.82",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242014",
+      "date_time": "05/11/2023 17:17:00",
+      "price_total": "57.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "57.00"
+        }
+      ],
+      "timestamp_erp": 1699204620,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.11",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "171.00",
+          "price": "57.00",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242015",
+      "date_time": "05/11/2023 17:20:00",
+      "price_total": "57.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "57.00"
+        }
+      ],
+      "timestamp_erp": 1699204800,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.11",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "76.00",
+          "price": "38.00",
+          "quantity": 2
+        },
+        {
+          "item": "Drink da casa+ CHIP",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242016",
+      "date_time": "05/11/2023 17:22:00",
+      "price_total": "14.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "14.00"
+        }
+      ],
+      "timestamp_erp": 1699204920,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "1.50",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Copo 16 OZ",
+          "canceled": "false",
+          "total": "14.00",
+          "price": "14.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242017",
+      "date_time": "05/11/2023 17:26:00",
+      "price_total": "41.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "41.00"
+        }
+      ],
+      "timestamp_erp": 1699205160,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.39",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242018",
+      "date_time": "05/11/2023 17:39:00",
+      "price_total": "38.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "38.00"
+        }
+      ],
+      "timestamp_erp": 1699205940,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "WRAP Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242019",
+      "date_time": "05/11/2023 18:06:00",
+      "price_total": "55.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "55.00"
+        }
+      ],
+      "timestamp_erp": 1699207560,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "5.89",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Café com Nuggets",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242020",
+      "date_time": "05/11/2023 18:11:00",
+      "price_total": "115.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "115.00"
+        }
+      ],
+      "timestamp_erp": 1699207860,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "12.32",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Pizza SUB Pequeño",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango Salsa Pequeño",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "1 Nuggets",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "CHIP",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "1.5 Litro Pepsi",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango Salsa Pequeño",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango Salsa Pequeño",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "1 Nuggets",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "CHIP",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Combinado da casa",
+          "canceled": "false",
+          "total": "115.00",
+          "price": "115.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242021",
+      "date_time": "05/11/2023 18:23:00",
+      "price_total": "57.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "57.00"
+        }
+      ],
+      "timestamp_erp": 1699208580,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.11",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242022",
+      "date_time": "05/11/2023 18:32:00",
+      "price_total": "38.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "38.00"
+        }
+      ],
+      "timestamp_erp": 1699209120,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Contra filé Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242023",
+      "date_time": "05/11/2023 18:51:00",
+      "price_total": "109.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "109.00"
+        }
+      ],
+      "timestamp_erp": 1699210260,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "11.68",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Pizza SUB Pequeño",
+          "canceled": "false",
+          "total": "32.00",
+          "price": "32.00",
+          "quantity": 1
+        },
+        {
+          "item": "Burrito Contra filé (WBBQ)",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242024",
+      "date_time": "05/11/2023 18:53:00",
+      "price_total": "37.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "37.00"
+        }
+      ],
+      "timestamp_erp": 1699210380,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.96",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Ovo/ Salame",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Café com CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242025",
+      "date_time": "05/11/2023 19:05:00",
+      "price_total": "59.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "59.00"
+        }
+      ],
+      "timestamp_erp": 1699211100,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.32",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Burrito Salame Mortadela (WJP)",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "3 Nuggetss",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242026",
+      "date_time": "05/11/2023 19:08:00",
+      "price_total": "82.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "82.00"
+        }
+      ],
+      "timestamp_erp": 1699211280,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "8.79",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "76.00",
+          "price": "38.00",
+          "quantity": 2
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "88.00",
+          "price": "44.00",
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242027",
+      "date_time": "05/11/2023 19:28:00",
+      "price_total": "43.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "43.00"
+        }
+      ],
+      "timestamp_erp": 1699212480,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.61",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salmão Pequeño",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        },
+        {
+          "item": "1 Nuggets",
+          "canceled": "false",
+          "total": "6.00",
+          "price": "6.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242028",
+      "date_time": "05/11/2023 19:34:00",
+      "price_total": "63.00",
+      "payments": [
+        {
+          "type": "Delivery",
+          "amount": "63.00"
+        }
+      ],
+      "timestamp_erp": 1699212840,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.75",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Drink da casa+ CHIP",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "BMT REGULAR",
+          "canceled": "false",
+          "total": "43.00",
+          "price": "43.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242029",
+      "date_time": "05/11/2023 19:35:00",
+      "price_total": "63.00",
+      "payments": [
+        {
+          "type": "Delivery",
+          "amount": "63.00"
+        }
+      ],
+      "timestamp_erp": 1699212900,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.75",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salmão Pequeño",
+          "canceled": "false",
+          "total": "43.00",
+          "price": "43.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com Nuggets",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242030",
+      "date_time": "05/11/2023 19:44:00",
+      "price_total": "167.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "167.00"
+        }
+      ],
+      "timestamp_erp": 1699213440,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "17.89",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Pequeño",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Pizza SUB Pequeño",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "1 Nuggets",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "CHIP",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo 16 OZ",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "1 Nuggets",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "1 Nuggets",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "CHIP",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "CHIP",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo 16 OZ",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo 16 OZ",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "PARA 3 PROMERICA",
+          "canceled": "false",
+          "total": "135.00",
+          "price": "135.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Pequeño",
+          "canceled": "false",
+          "total": "32.00",
+          "price": "32.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242031",
+      "date_time": "05/11/2023 19:46:00",
+      "price_total": "124.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "124.00"
+        }
+      ],
+      "timestamp_erp": 1699213560,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "13.29",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Pizza SUB Pequeño",
+          "canceled": "false",
+          "total": "32.00",
+          "price": "32.00",
+          "quantity": 1
+        },
+        {
+          "item": "Café com CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        },
+        {
+          "item": "Copo c/ Sonho",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242032",
+      "date_time": "05/11/2023 19:52:00",
+      "price_total": "156.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "156.00"
+        }
+      ],
+      "timestamp_erp": 1699213920,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "16.71",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Extra Avocado Pequeño",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 3
+        },
+        {
+          "item": "Extra Crouton Peq",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 3
+        },
+        {
+          "item": "Oferta Extra",
+          "canceled": "false",
+          "total": "126.00",
+          "price": "42.00",
+          "quantity": 3
+        },
+        {
+          "item": "Empanados",
+          "canceled": "false",
+          "total": "684.00",
+          "price": "114.00",
+          "quantity": 6
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242033",
+      "date_time": "05/11/2023 19:54:00",
+      "price_total": "55.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "55.00"
+        }
+      ],
+      "timestamp_erp": 1699214040,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "5.89",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "76.00",
+          "price": "38.00",
+          "quantity": 2
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242034",
+      "date_time": "05/11/2023 19:59:00",
+      "price_total": "115.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "115.00"
+        }
+      ],
+      "timestamp_erp": 1699214340,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "12.32",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango Salsa Pequeño",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "1 Nuggets",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "CHIP",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "1.5 Litro Pepsi",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango Salsa Pequeño",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango Salsa Pequeño",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango Salsa Pequeño",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "1 Nuggets",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "CHIP",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Combinado da casa",
+          "canceled": "false",
+          "total": "115.00",
+          "price": "115.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242035",
+      "date_time": "05/11/2023 20:00:00",
+      "price_total": "37.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "37.00"
+        }
+      ],
+      "timestamp_erp": 1699214400,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.96",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Waffle",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242036",
+      "date_time": "05/11/2023 20:02:00",
+      "price_total": "58.00",
+      "payments": [
+        {
+          "type": "Delivery",
+          "amount": "58.00"
+        }
+      ],
+      "timestamp_erp": 1699214520,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.21",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Pizza SUB Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "ÁGUA com CHIP",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242037",
+      "date_time": "05/11/2023 20:04:00",
+      "price_total": "41.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "41.00"
+        }
+      ],
+      "timestamp_erp": 1699214640,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.39",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "WRAP Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242038",
+      "date_time": "05/11/2023 20:20:00",
+      "price_total": "139.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "139.00"
+        }
+      ],
+      "timestamp_erp": 1699215600,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "14.89",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salmão Pequeño",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242039",
+      "date_time": "05/11/2023 20:21:00",
+      "price_total": "44.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "44.00"
+        }
+      ],
+      "timestamp_erp": 1699215660,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.71",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242040",
+      "date_time": "05/11/2023 20:26:00",
+      "price_total": "19.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "19.00"
+        }
+      ],
+      "timestamp_erp": 1699215960,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.04",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242041",
+      "date_time": "05/11/2023 20:35:00",
+      "price_total": "55.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "55.00"
+        }
+      ],
+      "timestamp_erp": 1699216500,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "5.89",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "76.00",
+          "price": "38.00",
+          "quantity": 2
+        },
+        {
+          "item": "Copo c/ CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242042",
+      "date_time": "05/11/2023 20:36:00",
+      "price_total": "38.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "38.00"
+        }
+      ],
+      "timestamp_erp": 1699216560,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242043",
+      "date_time": "05/11/2023 20:41:00",
+      "price_total": "54.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "54.00"
+        }
+      ],
+      "timestamp_erp": 1699216860,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "5.79",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "88.00",
+          "price": "44.00",
+          "quantity": 2
+        },
+        {
+          "item": "LATA",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242044",
+      "date_time": "05/11/2023 21:06:00",
+      "price_total": "54.00",
+      "payments": [
+        {
+          "type": "Delivery",
+          "amount": "54.00"
+        }
+      ],
+      "timestamp_erp": 1699218360,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "5.79",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Empanados",
+          "canceled": "false",
+          "total": "21.00",
+          "price": "21.00",
+          "quantity": 1
+        },
+        {
+          "item": "Extra Queijo",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com 1Nuggets",
+          "canceled": "false",
+          "total": "13.00",
+          "price": "13.00",
+          "quantity": 1
+        },
+        {
+          "item": "Extra Bacon",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242045",
+      "date_time": "05/11/2023 21:08:00",
+      "price_total": "42.00",
+      "payments": [
+        {
+          "type": "Delivery",
+          "amount": "42.00"
+        }
+      ],
+      "timestamp_erp": 1699218480,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.50",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "21.00",
+          "price": "21.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "21.00",
+          "price": "21.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242046",
+      "date_time": "05/11/2023 21:10:00",
+      "price_total": "62.00",
+      "payments": [
+        {
+          "type": "Delivery",
+          "amount": "62.00"
+        }
+      ],
+      "timestamp_erp": 1699218600,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.64",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Empanados Salame PEQ (EJ)",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com Nuggets",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Empanados Salame PEQ (EJ)",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com Nuggets",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "COMBINADOS",
+          "canceled": "false",
+          "total": "62.00",
+          "price": "62.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242047",
+      "date_time": "05/11/2023 21:11:00",
+      "price_total": "38.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "38.00"
+        }
+      ],
+      "timestamp_erp": 1699218660,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango Salsa Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242048",
+      "date_time": "05/11/2023 21:12:00",
+      "price_total": "63.00",
+      "payments": [
+        {
+          "type": "Delivery",
+          "amount": "63.00"
+        }
+      ],
+      "timestamp_erp": 1699218720,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.75",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "BMT Pequeño",
+          "canceled": "false",
+          "total": "43.00",
+          "price": "43.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242049",
+      "date_time": "05/11/2023 21:13:00",
+      "price_total": "22.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "22.00"
+        }
+      ],
+      "timestamp_erp": 1699218780,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242050",
+      "date_time": "05/11/2023 21:22:00",
+      "price_total": "19.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "19.00"
+        }
+      ],
+      "timestamp_erp": 1699219320,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.04",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242051",
+      "date_time": "05/11/2023 21:26:00",
+      "price_total": "71.00",
+      "payments": [
+        {
+          "type": "Delivery",
+          "amount": "71.00"
+        }
+      ],
+      "timestamp_erp": 1699219560,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "7.61",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Contra filé Grande",
+          "canceled": "false",
+          "total": "71.00",
+          "price": "71.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "1AM5242052",
+      "date_time": "05/11/2023 21:38:00",
+      "price_total": "72.00",
+      "payments": [
+        {
+          "type": "Delivery",
+          "amount": "72.00"
+        }
+      ],
+      "timestamp_erp": 1699220280,
+      "details": {
+        "movimento": "",
+        "operator": "00256",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "7.71",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "21.00",
+          "price": "21.00",
+          "quantity": 1
+        },
+        {
+          "item": "Drink da casa+ CHIP",
+          "canceled": "false",
+          "total": "20.00",
+          "price": "20.00",
+          "quantity": 1
+        },
+        {
+          "item": "Brownie",
+          "canceled": "false",
+          "total": "13.00",
+          "price": "13.00",
+          "quantity": 1
+        },
+        {
+          "item": "3 Nuggetss",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        },
+        {
+          "item": "Certificado Q1.00",
+          "canceled": "false",
+          "total": "1.00",
+          "price": "1.00",
+          "quantity": 1
+        },
+        {
+          "item": "Certificado Q1.00",
+          "canceled": "false",
+          "total": "1.00",
+          "price": "1.00",
+          "quantity": 1
+        },
+        {
+          "item": "Certificado Q1.00",
+          "canceled": "false",
+          "total": "1.00",
+          "price": "1.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3145584",
+      "date_time": "05/11/2023 15:02:00",
+      "price_total": "55.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "55.00"
+        }
+      ],
+      "timestamp_erp": 1699196520,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "5.89",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Vegetariano Pequeño",
+          "canceled": "false",
+          "total": "26.00",
+          "price": "26.00",
+          "quantity": 1
+        },
+        {
+          "item": "Cerveja Nacional+ Nuggets",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Brownie",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3145585",
+      "date_time": "05/11/2023 15:05:00",
+      "price_total": "19.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "19.00"
+        }
+      ],
+      "timestamp_erp": 1699196700,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.04",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3145586",
+      "date_time": "05/11/2023 15:31:00",
+      "price_total": "110.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "110.00"
+        }
+      ],
+      "timestamp_erp": 1699198260,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "11.79",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango Salsa Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango Salsa Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com tartelete",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3145587",
+      "date_time": "05/11/2023 15:43:00",
+      "price_total": "93.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "93.00"
+        }
+      ],
+      "timestamp_erp": 1699198980,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "9.96",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "WRAP Clássico",
+          "canceled": "false",
+          "total": "171.00",
+          "price": "57.00",
+          "quantity": 3
+        },
+        {
+          "item": "WRAP Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "MF Ovo/ Linguiça",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3145588",
+      "date_time": "05/11/2023 15:45:00",
+      "price_total": "38.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "38.00"
+        }
+      ],
+      "timestamp_erp": 1699199100,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3145589",
+      "date_time": "05/11/2023 16:13:00",
+      "price_total": "55.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "55.00"
+        }
+      ],
+      "timestamp_erp": 1699200780,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "5.89",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango Salsa Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com Nuggets",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3145590",
+      "date_time": "05/11/2023 16:25:00",
+      "price_total": "104.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "104.00"
+        }
+      ],
+      "timestamp_erp": 1699201500,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "11.14",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango Salsa Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3145591",
+      "date_time": "05/11/2023 16:27:00",
+      "price_total": "37.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "37.00"
+        }
+      ],
+      "timestamp_erp": 1699201620,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.96",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Burrito Salame Mortadela (WJP)",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Wrap Tropeiro",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3145592",
+      "date_time": "05/11/2023 16:30:00",
+      "price_total": "82.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "82.00"
+        }
+      ],
+      "timestamp_erp": 1699201800,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "8.79",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Be Ligth+ Sonho",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Be Ligth+ Sonho",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3145593",
+      "date_time": "05/11/2023 16:35:00",
+      "price_total": "57.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "57.00"
+        }
+      ],
+      "timestamp_erp": 1699202100,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.11",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Frango Salsa Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Cerveja Nacional+ tartelete",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3145594",
+      "date_time": "05/11/2023 16:46:00",
+      "price_total": "41.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "41.00"
+        }
+      ],
+      "timestamp_erp": 1699202760,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.39",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3145595",
+      "date_time": "05/11/2023 16:57:00",
+      "price_total": "19.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "19.00"
+        }
+      ],
+      "timestamp_erp": 1699203420,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "2.04",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3145596",
+      "date_time": "05/11/2023 17:12:00",
+      "price_total": "33.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "33.00"
+        }
+      ],
+      "timestamp_erp": 1699204320,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.54",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "WRAP Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Extra Frango",
+          "canceled": "false",
+          "total": "14.00",
+          "price": "14.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3145597",
+      "date_time": "05/11/2023 17:56:00",
+      "price_total": "112.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "112.00"
+        }
+      ],
+      "timestamp_erp": 1699206960,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "12.00",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "BMT Pequeño",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango Salsa Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Burrito BMT ",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3145598",
+      "date_time": "05/11/2023 17:58:00",
+      "price_total": "39.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "39.00"
+        }
+      ],
+      "timestamp_erp": 1699207080,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.18",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "ÁGUA com CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3145599",
+      "date_time": "05/11/2023 18:04:00",
+      "price_total": "38.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "38.00"
+        }
+      ],
+      "timestamp_erp": 1699207440,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3145600",
+      "date_time": "05/11/2023 18:13:00",
+      "price_total": "38.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "38.00"
+        }
+      ],
+      "timestamp_erp": 1699207980,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3145601",
+      "date_time": "05/11/2023 18:15:00",
+      "price_total": "46.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "46.00"
+        }
+      ],
+      "timestamp_erp": 1699208100,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.93",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "ÁGUA comBrownie GF",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        },
+        {
+          "item": "Brownie",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3145602",
+      "date_time": "05/11/2023 18:29:00",
+      "price_total": "190.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "190.00"
+        }
+      ],
+      "timestamp_erp": 1699208940,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "20.36",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "WRAP Clássico",
+          "canceled": "false",
+          "total": "171.00",
+          "price": "57.00",
+          "quantity": 3
+        },
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "931.00",
+          "price": "133.00",
+          "quantity": 7
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3145603",
+      "date_time": "05/11/2023 18:31:00",
+      "price_total": "68.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "68.00"
+        }
+      ],
+      "timestamp_erp": 1699209060,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "7.29",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Extra Avocado Pequeño",
+          "canceled": "false",
+          "total": "8.00",
+          "price": "8.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3145604",
+      "date_time": "05/11/2023 18:54:00",
+      "price_total": "74.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "74.00"
+        }
+      ],
+      "timestamp_erp": 1699210440,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "7.93",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Frango Salsa Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3145605",
+      "date_time": "05/11/2023 19:07:00",
+      "price_total": "60.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "60.00"
+        }
+      ],
+      "timestamp_erp": 1699211220,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.43",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3145606",
+      "date_time": "05/11/2023 19:30:00",
+      "price_total": "169.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "169.00"
+        }
+      ],
+      "timestamp_erp": 1699212600,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "18.11",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lombinho Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3145607",
+      "date_time": "05/11/2023 19:34:00",
+      "price_total": "61.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "61.00"
+        }
+      ],
+      "timestamp_erp": 1699212840,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.54",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "ÁGUA com CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Extra Salame Mortadela",
+          "canceled": "false",
+          "total": "14.00",
+          "price": "14.00",
+          "quantity": 1
+        },
+        {
+          "item": "Extra Avocado Pequeño",
+          "canceled": "false",
+          "total": "8.00",
+          "price": "8.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3145608",
+      "date_time": "05/11/2023 19:50:00",
+      "price_total": "68.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "68.00"
+        }
+      ],
+      "timestamp_erp": 1699213800,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "7.29",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "WRAP Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Waffle",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        },
+        {
+          "item": "Waffle",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3145609",
+      "date_time": "05/11/2023 19:56:00",
+      "price_total": "39.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "39.00"
+        }
+      ],
+      "timestamp_erp": 1699214160,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.18",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3145610",
+      "date_time": "05/11/2023 19:58:00",
+      "price_total": "85.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "85.00"
+        }
+      ],
+      "timestamp_erp": 1699214280,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "9.11",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Extra Avocado Pequeño",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Extra Avocado Pequeño",
+          "canceled": "false",
+          "total": "0.00",
+          "price": "0.00",
+          "quantity": 1
+        },
+        {
+          "item": "Oferta Extra",
+          "canceled": "false",
+          "total": "14.00",
+          "price": "14.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "BMT Pequeño",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        },
+        {
+          "item": "3 Nuggetss",
+          "canceled": "false",
+          "total": "15.00",
+          "price": "15.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3145611",
+      "date_time": "05/11/2023 20:20:00",
+      "price_total": "63.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "63.00"
+        }
+      ],
+      "timestamp_erp": 1699215600,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.75",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "BMT Grande (BMT)",
+          "canceled": "false",
+          "total": "63.00",
+          "price": "63.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3145612",
+      "date_time": "05/11/2023 20:24:00",
+      "price_total": "57.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "57.00"
+        }
+      ],
+      "timestamp_erp": 1699215840,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "6.11",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3145613",
+      "date_time": "05/11/2023 20:28:00",
+      "price_total": "33.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "33.00"
+        }
+      ],
+      "timestamp_erp": 1699216080,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "3.54",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Extra Frango",
+          "canceled": "false",
+          "total": "14.00",
+          "price": "14.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3145614",
+      "date_time": "05/11/2023 20:35:00",
+      "price_total": "95.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "95.00"
+        }
+      ],
+      "timestamp_erp": 1699216500,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "10.18",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "WRAP Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "WRAP Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "WRAP Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Cerveja Nacional+ Nuggets",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3145615",
+      "date_time": "05/11/2023 20:37:00",
+      "price_total": "55.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "55.00"
+        }
+      ],
+      "timestamp_erp": 1699216620,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "5.89",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Steak Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3145616",
+      "date_time": "05/11/2023 20:42:00",
+      "price_total": "66.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "66.00"
+        }
+      ],
+      "timestamp_erp": 1699216920,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "7.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Cerveja Nacional+ tartelete",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salmão Pequeño",
+          "canceled": "false",
+          "total": "37.00",
+          "price": "37.00",
+          "quantity": 1
+        },
+        {
+          "item": "tartelete de Banana",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3145617",
+      "date_time": "05/11/2023 20:54:00",
+      "price_total": "98.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "98.00"
+        }
+      ],
+      "timestamp_erp": 1699217640,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "10.50",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Cerveja Nacional+Brownie GF",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "171.00",
+          "price": "57.00",
+          "quantity": 3
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3145618",
+      "date_time": "05/11/2023 21:04:00",
+      "price_total": "55.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "55.00"
+        }
+      ],
+      "timestamp_erp": 1699218240,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "5.89",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com Nuggets",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3145619",
+      "date_time": "05/11/2023 21:07:00",
+      "price_total": "44.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "44.00"
+        }
+      ],
+      "timestamp_erp": 1699218420,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "4.71",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        },
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "22.00",
+          "price": "22.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3145620",
+      "date_time": "05/11/2023 21:07:00",
+      "price_total": "10.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "10.00"
+        }
+      ],
+      "timestamp_erp": 1699218420,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "1.07",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "LATA",
+          "canceled": "false",
+          "total": "10.00",
+          "price": "10.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3145621",
+      "date_time": "05/11/2023 21:34:00",
+      "price_total": "85.00",
+      "payments": [
+        {
+          "type": "Contado",
+          "amount": "85.00"
+        }
+      ],
+      "timestamp_erp": 1699220040,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "9.11",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Salame Mortadela peq",
+          "canceled": "false",
+          "total": "198.00",
+          "price": "66.00",
+          "quantity": 3
+        },
+        {
+          "item": "SUB Clássico",
+          "canceled": "false",
+          "total": "19.00",
+          "price": "19.00",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "coupon": "3AS3145622",
+      "date_time": "05/11/2023 21:45:00",
+      "price_total": "55.00",
+      "payments": [
+        {
+          "type": "Tarjeta",
+          "amount": "55.00"
+        }
+      ],
+      "timestamp_erp": 1699220700,
+      "details": {
+        "movimento": "",
+        "operator": "02065",
+        "abertura": "",
+        "pdv": "14"
+      },
+      "fee": "5.89",
+      "delivery": false,
+      "staff": false,
+      "items": [
+        {
+          "item": "Steak Pequeño",
+          "canceled": "false",
+          "total": "38.00",
+          "price": "38.00",
+          "quantity": 1
+        },
+        {
+          "item": "Lata com CHIP",
+          "canceled": "false",
+          "total": "17.00",
+          "price": "17.00",
+          "quantity": 1
+        }
+      ]
+    }
+  ]
+}
